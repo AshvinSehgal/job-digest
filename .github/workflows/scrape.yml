@@ -1,0 +1,29 @@
+name: scrape-jobs
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 08:00 UTC = 2:00 AM CST / 3:00 AM CDT, done well before the 4 AM job search
+  workflow_dispatch:       # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install crawl4ai and a browser
+        run: |
+          pip install -U crawl4ai
+          crawl4ai-setup || true
+          python -m playwright install --with-deps chromium
+      - name: Scrape and publish digest
+        run: |
+          git config user.name "job-digest-bot"
+          git config user.email "job-digest-bot@users.noreply.github.com"
+          python scrape_jobs.py --out out --publish-dir .
