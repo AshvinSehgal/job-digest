@@ -1,5 +1,5 @@
-<!-- scraped 2026-11-24 03:30 local, 75/78 pages ok -->
-# Job scrape digest 2026-11-24
+<!-- scraped 2026-11-25 03:30 local, 75/78 pages ok -->
+# Job scrape digest 2026-11-25
 
 
 ## careers.microsoft.com
@@ -10,11 +10,6 @@ https://careers.microsoft.com/v2/global/en/search?q=software%20engineer&exp=Stud
 - [Microsoft Developer](https://developer.microsoft.com/en-us/)
 - [Software companies](https://www.microsoft.com/software-development-companies?icid=DSM_All_SoftwareCompanies&ocid=cmm3atxvn98)
 
-## jobs.apple.com
-https://jobs.apple.com/en-us/search?search=software%20engineer
-
-- no job-looking links found (open pages/ file to check)
-
 ## www.amazon.jobs
 https://www.amazon.jobs/en/search?base_query=software+engineer&category[]=software-development
 
@@ -22,9 +17,14 @@ https://www.amazon.jobs/en/search?base_query=software+engineer&category[]=softwa
 - [Software Engineer I](https://www.amazon.jobs/en/jobs/10573768/software-engineer-i)
 - [Embedded Software Engineer, Ring](https://www.amazon.jobs/en/jobs/10572329/embedded-software-engineer-ring)
 - [Software Engineer - Simulation, Fauna](https://www.amazon.jobs/en/jobs/10581340/software-engineer-simulation-fauna)
-- [Software Engineer I, Commerce](https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce)
-- [Software Engineer, AppSTAR COMPASS](https://www.amazon.jobs/en/jobs/10504767/software-engineer-appstar-compass)
-- [Software Engineer, AppSTAR COMPASS](https://www.amazon.jobs/en/jobs/10504756/software-engineer-appstar-compass)
+- [Software Engineer, EC2 Nitro](https://www.amazon.jobs/en/jobs/10430582/software-engineer-ec2-nitro)
+- [Software Engineer I, Commerce](https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce)
+- [Software Engineer, S3 Discovery](https://www.amazon.jobs/en/jobs/10556682/software-engineer-s3-discovery)
+
+## jobs.apple.com
+https://jobs.apple.com/en-us/search?search=software%20engineer
+
+- [RF Hardware Engineer - Multi-Radio Coexistence](https://jobs.apple.com/en-us/details/200690507-0836/rf-hardware-engineer-multi-radio-coexistence?team=HRDWR)
 
 ## www.google.com
 https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&target_level=EARLY
@@ -34,22 +34,37 @@ https://www.google.com/about/careers/applications/jobs/results/?q=software%20eng
 ## nvidia.wd5.myworkdayjobs.com
 https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=new%20grad
 
-- [DFT Engineer - New College Grad](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865?q=new+grad)
-- [ASIC Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309?q=new+grad)
-- [Formal Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837?q=new+grad)
-- [GPU Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102?q=new+grad)
-- [ASIC Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277?q=new+grad)
 - [PCB Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-Engineer---New-College-Grad-2027_JR2027612?q=new+grad)
-- [Formal Verification Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554?q=new+grad)
 - [SCG ArchDesign Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/SCG-ArchDesign-Engineer---New-College-Grad-2027_JR2028968?q=new+grad)
-- [RTL Power Optimization Engineer – New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841?q=new+grad)
-- [Architecture Energy Modeling Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398?q=new+grad)
-- [ASIC Floorplan Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651?q=new+grad)
-- [ASIC Clocks Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579?q=new+grad)
-- [SRAM Circuit Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839?q=new+grad)
-- [Low Power ASIC Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850?q=new+grad)
-- [Silicon Co-Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335?q=new+grad)
 - [ASIC Physical Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452?q=new+grad)
+- [Cell Modeling and Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631?q=new+grad)
+- [ASIC Engineer, Networking Chip Design - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456?q=new+grad)
+- [Compute System Arch Engineer, AI Infra - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-Engineer--AI-Infra---New-College-Grad-2027_JR2028578?q=new+grad)
+- [NVIDIA 2027 New College Graduate: Hardware ASIC Engineering - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Hardware-ASIC-Engineering---China_JR2024110?q=new+grad)
+- [NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107?q=new+grad)
+- [NVIDIA 2027 New College Graduate: Software Engineering - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Software-Engineering---China_JR2024111?q=new+grad)
+- [NVIDIA 2027 New College Graduate: Autonomous Vehicles and Robotics - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Autonomous-Vehicles-and-Robotics---China_JR2024109?q=new+grad)
+- [NVIDIA 2027 New College Graduate: GPU Architecture Engineering - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--GPU-Architecture-Engineering---China_JR2024108?q=new+grad)
+- [GPU Architect - New College Graduate 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Architect---New-College-Graduate-2027_JR2022870?q=new+grad)
+- [Formal Verification Engineer - New College Graduate](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771?q=new+grad)
+- [Board Design Engineer, LDE - New College Graduate](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Board-Design-Engineer--LDE---New-College-Graduate_JR2016978-1?q=new+grad)
+- [Developer Technology Engineer - New College Graduate 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566?q=new+grad)
+- [ASIC Physical Design Engineer - New College Graduate](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer---New-College-Graduate_JR2028466?q=new+grad)
+
+## careers.salesforce.com
+https://careers.salesforce.com/en/jobs/?search=software+engineer
+
+- [PMTS, Software Engineering](https://www.salesforce.com/company/careers/jobs/JR339999/pmts-software-engineering/)
+- [Software Engineering MTS](https://www.salesforce.com/company/careers/jobs/JR365253/software-engineering-mts/)
+- [Lead Software Engineer, AI Labs (Product and Customer Facing) - Cleared](https://www.salesforce.com/company/careers/jobs/JR369159/lead-software-engineer-ai-labs-product-and-customer-facing-cleared/)
+- [Software Engineering SMTS](https://www.salesforce.com/company/careers/jobs/JR359080/software-engineering-smts/)
+- [Software Engineer, AI Agent Platform](https://www.salesforce.com/company/careers/jobs/JR368957/software-engineer-ai-agent-platform/)
+- [Software Engineer Infrastructure and Distributed Systems](https://www.salesforce.com/company/careers/jobs/JR368687/software-engineer-infrastructure-and-distributed-systems/)
+- [Lead Software Engineer – Identity Platform Services](https://www.salesforce.com/company/careers/jobs/JR342897/lead-software-engineer-identity-platform-services/)
+- [Lead Software Engineer, AI Workflow Generation](https://www.salesforce.com/company/careers/jobs/JR366764/lead-software-engineer-ai-workflow-generation/)
+- [Lead Backend Software Engineer](https://www.salesforce.com/company/careers/jobs/JR368460/lead-backend-software-engineer/)
+- [Lead Software Engineer, AI Labs (Product and Customer Facing)](https://www.salesforce.com/company/careers/jobs/JR364943/lead-software-engineer-ai-labs-product-and-customer-facing/)
+- [Software Engineering AMTS (College Grad)](https://www.salesforce.com/company/careers/jobs/JR368047/software-engineering-amts-college-grad/)
 
 ## careers.adobe.com
 https://careers.adobe.com/us/en/search-results?keywords=software%20engineer
@@ -62,39 +77,6 @@ https://careers.adobe.com/us/en/search-results?keywords=software%20engineer
 - [Software Development Engineer 4](https://careers.adobe.com/us/en/job/R171262/Software-Development-Engineer-4)
 - [Genuine software](https://www.adobe.com/genuine.html)
 - [Adobe Developer](https://developer.adobe.com/)
-
-## careers.salesforce.com
-https://careers.salesforce.com/en/jobs/?search=software+engineer
-
-- [Software Engineering AMTS](https://www.salesforce.com/company/careers/jobs/JR307116/software-engineering-amts/)
-- [Software Engineering LMTS - Backend Distributed Systems](https://www.salesforce.com/company/careers/jobs/JR338174/software-engineering-lmts-backend-distributed-systems/)
-- [PMTS, Software Engineering](https://www.salesforce.com/company/careers/jobs/JR339999/pmts-software-engineering/)
-- [Software Engineering MTS](https://www.salesforce.com/company/careers/jobs/JR365253/software-engineering-mts/)
-- [Lead Software Engineer, AI Labs (Product and Customer Facing) - Cleared](https://www.salesforce.com/company/careers/jobs/JR369159/lead-software-engineer-ai-labs-product-and-customer-facing-cleared/)
-- [Software Engineering SMTS](https://www.salesforce.com/company/careers/jobs/JR359080/software-engineering-smts/)
-- [Software Engineer, AI Agent Platform](https://www.salesforce.com/company/careers/jobs/JR368957/software-engineer-ai-agent-platform/)
-- [Software Engineer Infrastructure and Distributed Systems](https://www.salesforce.com/company/careers/jobs/JR368687/software-engineer-infrastructure-and-distributed-systems/)
-- [Lead Software Engineer – Identity Platform Services](https://www.salesforce.com/company/careers/jobs/JR342897/lead-software-engineer-identity-platform-services/)
-- [Lead Software Engineer, AI Workflow Generation](https://www.salesforce.com/company/careers/jobs/JR366764/lead-software-engineer-ai-workflow-generation/)
-- [Lead Backend Software Engineer](https://www.salesforce.com/company/careers/jobs/JR368460/lead-backend-software-engineer/)
-- [Lead Software Engineer, AI Labs (Product and Customer Facing)](https://www.salesforce.com/company/careers/jobs/JR364943/lead-software-engineer-ai-labs-product-and-customer-facing/)
-
-## jobs.cisco.com
-https://jobs.cisco.com/jobs/SearchJobs/software%20engineer
-
-- [AI at work](https://careers.cisco.com/global/en/ai-and-innovation)
-- [Product and Engineering](https://careers.cisco.com/global/en/c/product-and-engineering-jobs)
-
-## careers.qualcomm.com
-https://careers.qualcomm.com/careers?query=software%20engineer
-
-- [Use of AI in the Application Process](https://qualcomm.com/site/privacy/ai-in-the-application-process)
-- [Powered by eightfold.ai #WhatsNextForYou](https://eightfold.ai)
-
-## www.metacareers.com
-https://www.metacareers.com/jobs
-
-- no job-looking links found (open pages/ file to check)
 
 ## www.databricks.com
 https://www.databricks.com/company/careers/open-positions
@@ -152,6 +134,7 @@ https://www.databricks.com/company/careers/open-positions
 - [Forward Deployed Engineer - full StackAmsterdam, Netherlands](https://www.databricks.com/company/careers/professional-services-operations/forward-deployed-engineer---full-stack-8462016002)
 - [AI Automation EngineerCosta Rica](https://www.databricks.com/company/careers/infrastructure/ai-automation-engineer-8829033002)
 - [Software Engineer, InfrastructureMountain View, California](https://www.databricks.com/company/careers/infrastructure/software-engineer-infrastructure-8829039002)
+- [Forward Deployed Program LeadNew York City, New York; San Francisco, California](https://www.databricks.com/company/careers/field-engineering---other/forward-deployed-program-lead-8913000002)
 - [Product Design New Grad (2027 Start)San Francisco, California; Seattle, Washington](https://www.databricks.com/company/careers/university-recruiting---product/product-design-new-grad-2027-start-8843577002)
 - [AI Transformation LeaderUnited States](https://www.databricks.com/company/careers/go-to-market-/ai-transformation-leader-7803651002)
 - [Industry Executive, Intel Community (AI Transformation)Remote - Washington D.C.](https://www.databricks.com/company/careers/public-sector-sales/industry-executive-intel-community-ai-transformation-8948986002)
@@ -172,6 +155,35 @@ https://www.databricks.com/company/careers/open-positions
 - [AI Blog](https://www.databricks.com/blog/category/databricks-ai)
 - [Apache Software Foundation](https://www.apache.org/)
 
+## jobs.cisco.com
+https://jobs.cisco.com/jobs/SearchJobs/software%20engineer
+
+- [AI at work](https://careers.cisco.com/global/en/ai-and-innovation)
+- [Product and Engineering](https://careers.cisco.com/global/en/c/product-and-engineering-jobs)
+
+## careers.qualcomm.com
+https://careers.qualcomm.com/careers?query=software%20engineer
+
+- [Use of AI in the Application Process](https://qualcomm.com/site/privacy/ai-in-the-application-process)
+- [Powered by eightfold.ai #WhatsNextForYou](https://eightfold.ai)
+
+## www.metacareers.com
+https://www.metacareers.com/jobs
+
+- no job-looking links found (open pages/ file to check)
+
+## www.palantir.com
+https://www.palantir.com/careers/
+
+- [Sovereign AI](https://www.palantir.com/protect-your-sovereignty/)
+- [Early CareersMeritocracy Fellowship↳ Read More](https://www.palantir.com/careers/meritocracy-fellowship/)
+- [AIP for Developers](https://www.palantir.com/aip/developers/)
+- [Edge AI](https://www.palantir.com/offerings/edge-ai/)
+- [Developer Community](https://community.palantir.com/)
+- [UATX InterviewAlex Karp speaks with students at University of Austin↳ Watch Now](https://www.youtube.com/watch?t=3481s&v=QdqHf71Tep0)
+- [Semester at PalantirDr. Karp Interviews Palantir University Fellows↳ Watch Now](https://www.youtube.com/watch?t=14s&v=qt26zeTPTPY)
+- [Palantir Developers](https://www.youtube.com/channel/UCQRc3PMlCsoodxbR4IsglKQ)
+
 ## stripe.com
 https://stripe.com/jobs/search?query=software%20engineer
 
@@ -191,32 +203,20 @@ https://stripe.com/jobs/search?query=software%20engineer
 - [AI companies](https://stripe.com/use-cases/ai)
 - [Developer blog](https://stripe.dev/)
 
-## www.palantir.com
-https://www.palantir.com/careers/
+## www.uber.com
+https://www.uber.com/us/en/careers/list/?query=software%20engineer
 
-- [Sovereign AI](https://www.palantir.com/protect-your-sovereignty/)
-- [Early CareersMeritocracy Fellowship↳ Read More](https://www.palantir.com/careers/meritocracy-fellowship/)
-- [AIP for Developers](https://www.palantir.com/aip/developers/)
-- [Edge AI](https://www.palantir.com/offerings/edge-ai/)
-- [Developer Community](https://community.palantir.com/)
-- [UATX InterviewAlex Karp speaks with students at University of Austin↳ Watch Now](https://www.youtube.com/watch?t=3481s&v=QdqHf71Tep0)
-- [Semester at PalantirDr. Karp Interviews Palantir University Fellows↳ Watch Now](https://www.youtube.com/watch?t=14s&v=qt26zeTPTPY)
-- [Palantir Developers](https://www.youtube.com/channel/UCQRc3PMlCsoodxbR4IsglKQ)
+- no job-looking links found (open pages/ file to check)
 
 ## careers.snowflake.com
 https://careers.snowflake.com/us/en/search-results?keywords=software%20engineer
 
 - [GenSWE](https://careers.snowflake.com/us/en/generalsoftwareengineeringprogram)
 - [Software Engineer](https://careers.snowflake.com/us/en/job/SNCOUSA6C824EA783549DB8C6041E6E3D1E5BCEXTERNALENUSE56587DCDC4643E5A93E94D479FDB754/Software-Engineer)
-- [Software Engineer AI Team](https://careers.snowflake.com/us/en/job/SNCOUS7F25583252D149B695A86CED4F590E49EXTERNALENUS9003F845850A4786A422EC9632FE0141/Software-Engineer-AI-Team)
 - [Software Engineer - Backend](https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend)
+- [Software Engineer AI Team](https://careers.snowflake.com/us/en/job/SNCOUS7F25583252D149B695A86CED4F590E49EXTERNALENUS9003F845850A4786A422EC9632FE0141/Software-Engineer-AI-Team)
 - [Software Engineer, Enterprise Team](https://careers.snowflake.com/us/en/job/SNCOUS1E0219387A454F698BE25BE2C7C37CFBEXTERNALENUSA3A54F6D2FB6496280010732B890A859/Software-Engineer-Enterprise-Team)
 - [Software Engineer - SnowCommand](https://careers.snowflake.com/us/en/job/SNCOUS3491AE4916094DCCBE3AE22D2300A6B7EXTERNALENUS49AA16EBC4294E809B80BD5C6CD12721/Software-Engineer-SnowCommand)
-
-## www.uber.com
-https://www.uber.com/us/en/careers/list/?query=software%20engineer
-
-- no job-looking links found (open pages/ file to check)
 
 ## jobs.netflix.com
 https://jobs.netflix.com/search?q=software%20engineer
@@ -233,18 +233,6 @@ https://careers.linkedin.com/
 
 - [Engineering](https://careers.linkedin.com/Teams/Engineering)
 
-## jobs.bytedance.com
-https://jobs.bytedance.com/en/position?keywords=software%20engineer
-
-- [Backend Software Engineer - PlatformsTechnologySan JoseRegular](https://joinbytedance.com/search/7617931526848104757)
-- [Software Engineer (SRE - Platform Services), PlatformTechnology - BackendSingaporeRegular](https://joinbytedance.com/search/7688565941823686965)
-- [Backend Software Engineer - PlatformsTechnologyNew YorkRegular](https://joinbytedance.com/search/7623141073093511429)
-- [Software Engineer- Metadata StorageTechnologySan JoseRegular](https://joinbytedance.com/search/7408646501163354419)
-- [Backend Software Engineer - Data Management SuiteTechnologySingaporeRegular](https://joinbytedance.com/search/7385557673204402483)
-- [Backend Software Engineer (Storage SRE) - Cloud InfrastructureTechnologyDublinRegular](https://joinbytedance.com/search/7702202893554436357)
-- [Backend Software Engineer - (Data Management Suite)TechnologySingaporeRegular](https://joinbytedance.com/search/7424044406841805106)
-- [Early Careers FAQ](https://joinbytedance.com/earlycareers/faq)
-
 ## lifeattiktok.com
 https://lifeattiktok.com/search?keyword=software%20engineer
 
@@ -257,13 +245,20 @@ https://lifeattiktok.com/search?keyword=software%20engineer
 - [Software Test Engineer (AI), TikTok SearchSingaporeTechnology - TestingRegular](https://lifeattiktok.com/search/7668307535980267829)
 - [Backend Software Engineer (Aeolus) - Data PlatformSingaporeTechnologyRegular](https://lifeattiktok.com/search/7660357056378964229)
 - [Backend Software Engineer (Aeolus) - Data PlatformSingaporeTechnology - BackendRegular](https://lifeattiktok.com/search/7202797490277009721)
-- [Software Engineer - LLM Applications and AI AgentsSan JoseTechnologyRegular](https://lifeattiktok.com/search/7488417640018659602)
+- [Software Engineer - Ads Interface and PlatformSan JoseTechnologyRegular](https://lifeattiktok.com/search/7594626946647492917)
 - [TikTok for Developers](https://developers.tiktok.com/?refer=tiktok_web)
 
-## jobs.lever.co
-https://jobs.lever.co/mistral
+## jobs.bytedance.com
+https://jobs.bytedance.com/en/position?keywords=software%20engineer
 
-- no job-looking links found (open pages/ file to check)
+- [Backend Software Engineer - PlatformsTechnologySan JoseRegular](https://joinbytedance.com/search/7617931526848104757)
+- [Software Engineer (SRE - Platform Services), PlatformTechnology - BackendSingaporeRegular](https://joinbytedance.com/search/7688565941823686965)
+- [Backend Software Engineer - PlatformsTechnologyNew YorkRegular](https://joinbytedance.com/search/7623141073093511429)
+- [Software Engineer- Metadata StorageTechnologySan JoseRegular](https://joinbytedance.com/search/7408646501163354419)
+- [Backend Software Engineer - Data Management SuiteTechnologySingaporeRegular](https://joinbytedance.com/search/7385557673204402483)
+- [Backend Software Engineer (Storage SRE) - Cloud InfrastructureTechnologyDublinRegular](https://joinbytedance.com/search/7702202893554436357)
+- [Backend Software Engineer - (Data Management Suite)TechnologySingaporeRegular](https://joinbytedance.com/search/7424044406841805106)
+- [Early Careers FAQ](https://joinbytedance.com/earlycareers/faq)
 
 ## www.anthropic.com
 https://www.anthropic.com/jobs
@@ -349,16 +344,16 @@ https://www.anthropic.com/jobs
 - [Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)London, UKApply](https://job-boards.greenhouse.io/anthropic/jobs/5445760008)
 - [Applied AI Engineer, Beneficial Deployments (Lab Automation)London, UKApply](https://job-boards.greenhouse.io/anthropic/jobs/5440821008)
 
+## jobs.lever.co
+https://jobs.lever.co/mistral
+
+- no job-looking links found (open pages/ file to check)
+
 ## deepmind.google
 https://deepmind.google/about/careers/
 
 - [National Partnerships for AI](https://deepmind.google/national-partnerships-for-ai/)
 - [Google AI Studio](https://aistudio.google.com/)
-
-## apply.workable.com
-https://apply.workable.com/huggingface/
-
-- no job-looking links found (open pages/ file to check)
 
 ## job-boards.greenhouse.io
 https://job-boards.greenhouse.io/xai
@@ -393,6 +388,11 @@ https://cohere.com/careers
 - [Future(s) of WorkHow will AI change the way we work?](https://cohere.com/research/futures-of-work)
 - [Aya ModelsMultilingual AI at scale](https://cohere.com/research/aya)
 
+## apply.workable.com
+https://apply.workable.com/huggingface/
+
+- no job-looking links found (open pages/ file to check)
+
 ## jobs.ashbyhq.com
 https://jobs.ashbyhq.com/langchain
 
@@ -420,6 +420,24 @@ https://jobs.ashbyhq.com/langchain
 - [Security Engineer, Detection & ResponseEngineering • San Francisco, CA; New York, NY • Full time • On-site](https://jobs.ashbyhq.com/langchain/7b1e5ff7-4531-4d4a-8379-52a21b6d386d)
 - [Software Engineer, InfrastructureEngineering • San Francisco, CA; New York, NY; Remote - Europe • Full time • On-site](https://jobs.ashbyhq.com/langchain/e725293d-c27b-4a79-959d-19f5618f2f8e)
 - [Partner EngineerPartnerships • San Francisco, CA • Full time • On-site](https://jobs.ashbyhq.com/langchain/47a3bc2a-2bed-4d61-b1de-b3d7ec211a08)
+- [GTM Systems EngineerRevenue Operations • San Francisco, CA • Full time • On-site](https://jobs.ashbyhq.com/langchain/c6e10cdd-b387-40fa-afd9-61067066c8e4)
+
+## jobs.ashbyhq.com
+https://jobs.ashbyhq.com/chalk
+
+- [Forward Deployed EngineerEngineering • Japan • Full time • Remote](https://jobs.ashbyhq.com/chalk/96eeb4e1-4621-4c03-b46e-ed2630b48811)
+- [Forward Deployed EngineerEngineering • Dublin, Ireland • Full time • Remote](https://jobs.ashbyhq.com/chalk/262b99de-c605-42d8-bf9d-d65528112122)
+- [Forward Deployed EngineerEngineering • Singapore • Full time • Remote](https://jobs.ashbyhq.com/chalk/9f25940e-9462-46c1-b992-6211ba4e8f52)
+- [Forward Deployed EngineerEngineering • NY; SF • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/4daa8b14-53ac-47a0-86d8-eaedc81bafac)
+- [Forward Deployed EngineerEngineering • Tel Aviv • Full time • Remote](https://jobs.ashbyhq.com/chalk/e1678b56-8dc7-4955-a576-9450bd568a0c)
+- [Forward Deployed EngineerEngineering • London • Full time • Remote](https://jobs.ashbyhq.com/chalk/14af92bf-812a-47d3-b4cb-dd9c1e8e11d3)
+- [Forward Deployed Engineer - New GradEngineering • SF; NY • Full time • On-site](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f)
+- [Frontend Software EngineerEngineering • SF • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/867937ab-fa06-4740-9e78-24bffacc779c)
+- [Full Stack Software EngineerEngineering • SF; NY • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/a953ba3c-9448-4adb-be09-bfe8acab5b03)
+- [Infrastructure EngineerEngineering • SF • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/2dac2d81-3e76-4491-a0bc-c3bfc6126f83)
+- [Software EngineerEngineering • NY; SF • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/e976735d-30a0-4b6f-aa9d-325d295c421e)
+- [Software Engineer, Developer ProductivityEngineering • Remote • Full time • Remote$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/2f22906b-527f-4aa8-82e7-0a6f842c560e)
+- [Software Engineer, SecurityEngineering • SF; NY • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/bf51a880-3156-4af7-ae7c-03888e1ac9fa)
 
 ## jobs.ashbyhq.com
 https://jobs.ashbyhq.com/openai
@@ -472,6 +490,7 @@ https://jobs.ashbyhq.com/openai
 - [Software Engineer, Agent IdentityApplied AI • San Francisco; Mountain View • Full time • Hybrid$350K – $405K • Offers Equity](https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0)
 - [Software Engineer, Agent PlatformApplied AI • San Francisco • Full time • Hybrid$230K – $385K • Offers Equity](https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004)
 - [Software Engineer, Applied Emerging Talent (2027)Applied AI • San Francisco • Full time • Hybrid](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511)
+- [Software Engineer, Backend — ChatGPT VoiceApplied AI • San Francisco • Full time • Hybrid$347K – $445K • Offers Equity](https://jobs.ashbyhq.com/openai/d22b6934-3bdc-459f-b801-87195d79be8a)
 - [Software Engineer, Backend — DotsApplied AI • New York City • Full time • Hybrid$347K – $385K • Offers Equity](https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519)
 - [Software Engineer, Build Systems / CIApplied AI • San Francisco; New York City; Seattle • Full time$185K – $490K • Offers Equity](https://jobs.ashbyhq.com/openai/202eb061-23d7-4a58-80c8-bc3b41e56d39)
 - [Software Engineer, Caching InfrastructureApplied AI • San Francisco • Full time$230K – $385K • Offers Equity](https://jobs.ashbyhq.com/openai/a20b7fc6-6f01-4618-ba35-37b40083f93e)
@@ -491,6 +510,7 @@ https://jobs.ashbyhq.com/openai
 - [Software Engineer, Enterprise ControlsApplied AI • San Francisco • Full time$230K – $385K • Offers Equity](https://jobs.ashbyhq.com/openai/88164d12-c8ed-4b62-ae26-dcb6f1cc8482)
 - [Software Engineer, Enterprise VerticalsApplied AI • San Francisco • Full time • Hybrid$293K – $325K • Offers Equity](https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8)
 - [Software Engineer, Financial EngineeringApplied AI • San Francisco • Full time • Hybrid$266K – $445K • Offers Equity](https://jobs.ashbyhq.com/openai/4ef5bf23-cf0e-4b97-a639-11f963c99b88)
+- [Software Engineer, Full Stack — ChatGPT VoiceApplied AI • San Francisco • Full time • Hybrid$347K – $385K • Offers Equity](https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22)
 - [Software Engineer, Full Stack — DotsApplied AI • New York City • Full time • Hybrid$347K – $385K • Offers Equity](https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445)
 - [Software Engineer, Full-Stack - Core ExperimentationApplied AI • Seattle • Full time$347K – $445K • Offers Equity](https://jobs.ashbyhq.com/openai/73e56947-5d8b-414d-a0ac-9dc9b04e2406)
 - [Software Engineer, Guardian Applied AI • London, UK • Full time • Hybrid](https://jobs.ashbyhq.com/openai/a36322aa-829e-47b0-821d-d15a40733b83)
@@ -502,45 +522,31 @@ https://jobs.ashbyhq.com/openai
 - [Software Engineer, Integrity FoundationsApplied AI • San Francisco • Full time$266K – $445K • Offers Equity](https://jobs.ashbyhq.com/openai/991948b7-0305-4125-bb9a-625f5bc24189)
 - [Software Engineer, LocalizationApplied AI • San Francisco • Full time$347K – $445K • Offers Equity](https://jobs.ashbyhq.com/openai/deff9215-217d-4392-825e-7788cb8205f3)
 - [Software Engineer, Mobile Web — DotsApplied AI • New York City • Full time • Hybrid$347K – $385K • Offers Equity](https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981)
-- [Software Engineer, Model Deployment- ChatGPT EngineeringApplied AI • London, UK • Full time • Hybrid£194K – £280K](https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b)
-- [Software Engineer, Monetization DeliveryApplied AI • San Francisco • Full time$347K – $445K • Offers Equity](https://jobs.ashbyhq.com/openai/a4ea79c8-e79f-4126-8c1f-032289024961)
-
-## jobs.ashbyhq.com
-https://jobs.ashbyhq.com/chalk
-
-- [Forward Deployed EngineerEngineering • Japan • Full time • Remote](https://jobs.ashbyhq.com/chalk/96eeb4e1-4621-4c03-b46e-ed2630b48811)
-- [Forward Deployed EngineerEngineering • Dublin, Ireland • Full time • Remote](https://jobs.ashbyhq.com/chalk/262b99de-c605-42d8-bf9d-d65528112122)
-- [Forward Deployed EngineerEngineering • Singapore • Full time • Remote](https://jobs.ashbyhq.com/chalk/9f25940e-9462-46c1-b992-6211ba4e8f52)
-- [Forward Deployed EngineerEngineering • NY; SF • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/4daa8b14-53ac-47a0-86d8-eaedc81bafac)
-- [Forward Deployed EngineerEngineering • Tel Aviv • Full time • Remote](https://jobs.ashbyhq.com/chalk/e1678b56-8dc7-4955-a576-9450bd568a0c)
-- [Forward Deployed EngineerEngineering • London • Full time • Remote](https://jobs.ashbyhq.com/chalk/14af92bf-812a-47d3-b4cb-dd9c1e8e11d3)
-- [Forward Deployed Engineer - New GradEngineering • SF; NY • Full time • On-site](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f)
-- [Frontend Software EngineerEngineering • SF • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/867937ab-fa06-4740-9e78-24bffacc779c)
-- [Full Stack Software EngineerEngineering • SF; NY • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/a953ba3c-9448-4adb-be09-bfe8acab5b03)
-- [Infrastructure EngineerEngineering • SF • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/2dac2d81-3e76-4491-a0bc-c3bfc6126f83)
-- [Software EngineerEngineering • NY; SF • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/e976735d-30a0-4b6f-aa9d-325d295c421e)
-- [Software Engineer, Developer ProductivityEngineering • Remote • Full time • Remote$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/2f22906b-527f-4aa8-82e7-0a6f842c560e)
-- [Software Engineer, SecurityEngineering • SF; NY • Full time • On-site$170K – $280K • Offers Equity](https://jobs.ashbyhq.com/chalk/bf51a880-3156-4af7-ae7c-03888e1ac9fa)
 
 ## jobs.ashbyhq.com
 https://jobs.ashbyhq.com/harvey
 
-- [Compliance EngineerBusiness Operations • San Francisco • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/5c10c348-0ad1-4dbe-a58a-dc32ba882d97)
 - [Compliance EngineerBusiness Operations • New York • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/09fe3d93-8c13-49a2-b8f8-d53f0edb91f2)
-- [Research Engineer / Scientist, Data & EvalsResearch • New York • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/46912896-5a97-4955-ae27-1b110b3487ec)
-- [Research Engineer / Scientist, Data & EvalsResearch • London • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/6708bb0c-e466-44e4-a992-486ad3300fd6)
+- [Compliance EngineerBusiness Operations • San Francisco • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/5c10c348-0ad1-4dbe-a58a-dc32ba882d97)
 - [Research Engineer / Scientist, Data & EvalsResearch • San Francisco • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/7e75a1a6-1884-4772-86c2-2ea4d6a7a08d)
 - [Research Engineer / Scientist, Data & EvalsResearch • Remote • Full time • Remote](https://jobs.ashbyhq.com/harvey/6c87b165-99ad-484e-b34b-1cf2ab0c92d5)
-- [Research Engineer / Scientist, Reinforcement LearningResearch • London • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/f0e47659-1727-4fd6-af14-4dffe07b6342)
+- [Research Engineer / Scientist, Data & EvalsResearch • London • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/6708bb0c-e466-44e4-a992-486ad3300fd6)
+- [Research Engineer / Scientist, Data & EvalsResearch • New York • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/46912896-5a97-4955-ae27-1b110b3487ec)
 - [Research Engineer / Scientist, Reinforcement LearningResearch • Remote • Full time • Remote](https://jobs.ashbyhq.com/harvey/30df72cf-ee68-4194-864e-47745ca8b6e0)
-- [Research Engineer / Scientist, Reinforcement LearningResearch • San Francisco • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/6ac97037-a307-4db9-a01f-22198262dbba)
+- [Research Engineer / Scientist, Reinforcement LearningResearch • London • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/f0e47659-1727-4fd6-af14-4dffe07b6342)
 - [Research Engineer / Scientist, Reinforcement LearningResearch • New York • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/db7a2623-bc3c-4db9-b1e3-500c2622d194)
-- [Research Engineer, InfrastructureResearch • San Francisco • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/264aac9e-3f8d-402f-a33b-04d2fe1e16be)
+- [Research Engineer / Scientist, Reinforcement LearningResearch • San Francisco • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/6ac97037-a307-4db9-a01f-22198262dbba)
 - [Research Engineer, InfrastructureResearch • Remote • Full time • Remote](https://jobs.ashbyhq.com/harvey/9b63e15d-2d43-4c4a-94be-75908e942ea7)
 - [Research Engineer, InfrastructureResearch • New York • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/7d5946ab-9b70-4c33-9e0f-cadbf0b892aa)
+- [Research Engineer, InfrastructureResearch • San Francisco • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/264aac9e-3f8d-402f-a33b-04d2fe1e16be)
 - [Research Engineer, InfrastructureResearch • London • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/4fc070c5-99be-459c-b5ef-63e5f4d68f8b)
 - [Forward Deployed Investment Professional, Private CreditGo to Market • London • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/8407b840-8645-471b-8bbf-f4c6c8861a2d)
 - [Trust EngineerSecurity • San Francisco; New York • Full time • Hybrid](https://jobs.ashbyhq.com/harvey/2afeecc1-d272-4562-a8df-50f720f5991d)
+
+## jobs.ashbyhq.com
+https://jobs.ashbyhq.com/mirendil
+
+- no job-looking links found (open pages/ file to check)
 
 ## jobs.ashbyhq.com
 https://jobs.ashbyhq.com/wispr-flow
@@ -566,11 +572,6 @@ https://jobs.ashbyhq.com/wispr-flow
 - [System Architect, New ProductsSoftware - Product • San Francisco; Remote • Full time • On-site](https://jobs.ashbyhq.com/wispr-flow/3ea9837d-3f68-448f-9d83-c39faf0503c2)
 
 ## jobs.ashbyhq.com
-https://jobs.ashbyhq.com/mirendil
-
-- no job-looking links found (open pages/ file to check)
-
-## jobs.ashbyhq.com
 https://jobs.ashbyhq.com/odysseyml
 
 - [AI ResidentEngineering • Palo Alto; London; Zurich • Full time](https://jobs.ashbyhq.com/odysseyml/1af903b4-3cab-4d3b-8d8b-ce918fdf6a3d)
@@ -580,6 +581,12 @@ https://jobs.ashbyhq.com/ande
 
 - [Software Engineer, AIEngineering • New York City • Full time • On-site](https://jobs.ashbyhq.com/ande/7c3c8fab-ec3a-4dad-9ae1-bd1b7f767be5)
 - [Software Engineer, AI (Early Career)Engineering • New York City • Full time • On-site](https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1)
+
+## job-boards.greenhouse.io
+https://job-boards.greenhouse.io/graphonai
+
+- [Research EngineerSan Francisco](https://job-boards.greenhouse.io/graphonai/jobs/4079324009)
+- [Site Reliability/Devops EngineerSan Francisco](https://job-boards.greenhouse.io/graphonai/jobs/4285104009)
 
 ## jobs.lever.co
 https://jobs.lever.co/palantir
@@ -665,43 +672,39 @@ https://jobs.lever.co/palantir
 - [Software Engineer - Environment PlatformHybrid — Full-timeNew York, NY](https://jobs.lever.co/palantir/d5d83a8f-cb96-41cc-9612-c7224fbb2fbc)
 - [Software Engineer - Environment PlatformHybrid — Full-timeSeattle, WA](https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497)
 
-## job-boards.greenhouse.io
-https://job-boards.greenhouse.io/graphonai
-
-- [Research EngineerSan Francisco](https://job-boards.greenhouse.io/graphonai/jobs/4079324009)
-- [Site Reliability/Devops EngineerSan Francisco](https://job-boards.greenhouse.io/graphonai/jobs/4285104009)
-
 ## www.ycombinator.com
 https://www.ycombinator.com/jobs/role/software-engineer
 
-- [Database Engineer — Storage & Query Execution](https://www.ycombinator.com/companies/paradedb/jobs/GCpYraM-database-engineer-storage-query-execution)
-- [Software Engineer](https://www.ycombinator.com/companies/middesk/jobs/gjYyOLh-software-engineer)
-- [Systems Engineer [In Person, SF]](https://www.ycombinator.com/companies/recall-ai/jobs/B8CE5Xc-systems-engineer-in-person-sf)
-- [Full-Stack Software Engineer](https://www.ycombinator.com/companies/agave/jobs/uNmv0Mv-full-stack-software-engineer)
-- [Software engineer, Fullstack](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack)
-- [Backend Engineer](https://www.ycombinator.com/companies/rever/jobs/CjCpj0t-backend-engineer)
-- [Forward Deployed Engineer](https://www.ycombinator.com/companies/seal-2/jobs/FrYzntx-forward-deployed-engineer)
-- [Software Engineer (Full Stack)](https://www.ycombinator.com/companies/kobalt-labs/jobs/NpKtQhi-software-engineer-full-stack)
-- [Full Stack Developer - Bountiful](https://www.ycombinator.com/companies/bountiful/jobs/QWdOU88-full-stack-developer-bountiful)
-- [Software Engineer](https://www.ycombinator.com/companies/candid-health/jobs/WIMeHdk-software-engineer)
-- [Founding Research Engineer](https://www.ycombinator.com/companies/mederva/jobs/243nIzK-founding-research-engineer)
-- [🚀 AI Engineer, Platform](https://www.ycombinator.com/companies/readily/jobs/Wx4vvAv-ai-engineer-platform)
-- [Founding Forward Deployed Engineer](https://www.ycombinator.com/companies/cair-health/jobs/Ye8X3VN-founding-forward-deployed-engineer)
-- [Software Engineer](https://www.ycombinator.com/companies/goveagle/jobs/ChZYJxM-software-engineer)
-- [Asymmetric Upside Engineering](https://www.ycombinator.com/companies/voltic/jobs/TZ0KKRI-asymmetric-upside-engineering)
-- [Software Engineer (India)](https://www.ycombinator.com/companies/strac/jobs/owZm2hV-software-engineer-india)
-- [AI Engineer](https://www.ycombinator.com/companies/terra-api/jobs/0f5CP0r-ai-engineer)
-- [Software Engineer](https://www.ycombinator.com/companies/evidence/jobs/zmlmpjE-software-engineer)
-- [Founding Infrastructure Engineer - Flair Labs](https://www.ycombinator.com/companies/flair-labs/jobs/0X4W8Kx-founding-infrastructure-engineer-flair-labs)
-- [Rust Engineer, Distributed Systems](https://www.ycombinator.com/companies/wasmer/jobs/peVgEv8-rust-engineer-distributed-systems)
-- [Software Engineer - Product (New Grad)](https://www.ycombinator.com/companies/julius/jobs/mJvspKN-software-engineer-product-new-grad)
-- [Backend Engineer (AI-Native) — Risk Infrastructure & Integrations](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
+- [Software Engineer](https://www.ycombinator.com/companies/rever/jobs/fy3YaaK-software-engineer)
 - [Founding Security Engineer](https://www.ycombinator.com/companies/karat-financial/jobs/gD75RKp-founding-security-engineer)
+- [Software Engineer](https://www.ycombinator.com/companies/medplum/jobs/nAbajSt-software-engineer)
+- [Founding Research Engineer](https://www.ycombinator.com/companies/mederva/jobs/243nIzK-founding-research-engineer)
+- [Software Engineer (India)](https://www.ycombinator.com/companies/strac/jobs/owZm2hV-software-engineer-india)
 - [Applied AI Engineer](https://www.ycombinator.com/companies/infer/jobs/1DhbYdF-applied-ai-engineer)
+- [Asymmetric Upside Engineering](https://www.ycombinator.com/companies/voltic/jobs/TZ0KKRI-asymmetric-upside-engineering)
 - [Software Engineer (Product)](https://www.ycombinator.com/companies/numeral/jobs/xcF2zhm-software-engineer-product)
-- [AI Research Engineer](https://www.ycombinator.com/companies/relari/jobs/8jHr1Pu-ai-research-engineer)
+- [Software Engineer](https://www.ycombinator.com/companies/goveagle/jobs/ChZYJxM-software-engineer)
+- [Software Engineer](https://www.ycombinator.com/companies/candid-health/jobs/WIMeHdk-software-engineer)
+- [Product Engineer, Post Batch](https://www.ycombinator.com/companies/y-combinator/jobs/fK75gxxbq-product-engineer-post-batch)
+- [Software Engineer](https://www.ycombinator.com/companies/method-financial/jobs/PtIUu82-software-engineer)
+- [Software Engineer](https://www.ycombinator.com/companies/evidence/jobs/zmlmpjE-software-engineer)
+- [Software engineer, Fullstack](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack)
+- [Software Engineer (Full Stack)](https://www.ycombinator.com/companies/kobalt-labs/jobs/NpKtQhi-software-engineer-full-stack)
 - [Product Engineer](https://www.ycombinator.com/companies/lamar-health/jobs/nkwwGKj-product-engineer)
+- [Forward Deployed Engineer](https://www.ycombinator.com/companies/middesk/jobs/YbgL2zq-forward-deployed-engineer)
+- [🚀 AI Engineer, Platform](https://www.ycombinator.com/companies/readily/jobs/Wx4vvAv-ai-engineer-platform)
+- [AI Engineer](https://www.ycombinator.com/companies/terra-api/jobs/0f5CP0r-ai-engineer)
+- [Forward Deployed Engineer](https://www.ycombinator.com/companies/seal-2/jobs/FrYzntx-forward-deployed-engineer)
+- [Founding Infrastructure Engineer - Flair Labs](https://www.ycombinator.com/companies/flair-labs/jobs/0X4W8Kx-founding-infrastructure-engineer-flair-labs)
+- [Backend Engineer (AI-Native) — Risk Infrastructure & Integrations](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
+- [Rust Engineer, Distributed Systems](https://www.ycombinator.com/companies/wasmer/jobs/peVgEv8-rust-engineer-distributed-systems)
+- [Full Stack Developer - Bountiful](https://www.ycombinator.com/companies/bountiful/jobs/QWdOU88-full-stack-developer-bountiful)
+- [Systems Engineer [In Person, SF]](https://www.ycombinator.com/companies/recall-ai/jobs/B8CE5Xc-systems-engineer-in-person-sf)
 - [Software Engineer Jobs](https://www.ycombinator.com/jobs/role/software-engineer)
+- [Software Engineer Jobs in San Francisco](https://www.ycombinator.com/jobs/role/software-engineer/san-francisco)
+- [Software Engineer Jobs in New York](https://www.ycombinator.com/jobs/role/software-engineer/new-york)
+- [Software Engineer Jobs in Los Angeles](https://www.ycombinator.com/jobs/role/software-engineer/los-angeles)
+- [Remote Software Engineer Jobs](https://www.ycombinator.com/jobs/role/software-engineer/remote)
 
 ## www.workatastartup.com
 https://www.workatastartup.com/jobs
@@ -710,15 +713,14 @@ https://www.workatastartup.com/jobs
 - [GiveCampusThe fundraising platform for schools.Full Stack EngineerFull-time · DC, SF, and remote / Remote (US) · $120K - $200K](https://www.workatastartup.com/jobs/25984)
 - [VolarenThe personal investing agent that comes to youSoftware EngineerFull-time · San Francisco, CA, US / Remote (US) · $50K - $150K](https://www.workatastartup.com/jobs/111785)
 - [NeuromorphicBuilding robots to automate wetlabsRobotics Hardware EngineerFull-time · San Francisco, CA · $140K - $170K](https://www.workatastartup.com/jobs/123108)
-- [RationalFirst Zero-human Accounting FirmMachine Learning Researcher Full-time · San Francisco, CA, US · $150K - $200K](https://www.workatastartup.com/jobs/106941)
+- [RationalFirst Zero-human Accounting FirmForward-Deployed EngineerFull-time · San Francisco, CA, US · $120K - $200K](https://www.workatastartup.com/jobs/106940)
 - [Aktoria RoboticsHuman as API for robotsData Infrastructure EngineerFull-time · Noida, UP, IN / Noida, Uttar Pradesh, IN · ₹2M - ₹4M INR](https://www.workatastartup.com/jobs/118749)
-- [Aktoria RoboticsHuman as API for robotsFounding Engineer, Founder's OfficeFull-time · DL, IN / Delhi, IN · ₹1.5M - ₹3M INR](https://www.workatastartup.com/jobs/120992)
-- [Ooak DataWe turn company data into training dataLead ML EngineerFull-time · Paris, IDF, FR / Paris, Île-de-France, FR · €90K - €120K EUR](https://www.workatastartup.com/jobs/120399)
-- [Ooak DataWe turn company data into training dataLead SWEFull-time · Paris, IDF, FR / Paris, Île-de-France, FR · €80K - €100K EUR](https://www.workatastartup.com/jobs/118682)
+- [Aktoria RoboticsHuman as API for robotsRobotics Field EngineerFull-time · Noida, UP, IN / Noida, Uttar Pradesh, IN · ₹1M - ₹1.6M INR](https://www.workatastartup.com/jobs/118748)
 - [HuscarlAutonomous AI actuary for corporate insuranceActuary - USFull-time · San Francisco, CA, US / Remote (US) · $180K - $240K](https://www.workatastartup.com/jobs/119012)
 - [AgentPhonePhone Numbers for AI AgentsFounding EngineerFull-time · New York, NY, US / San Francisco, CA, US · $140K - $250K](https://www.workatastartup.com/jobs/98603)
-- [RudusAI Takeoffs for ConcreteFounding EngineerFull-time · San Francisco, CA, US / New York, NY, US · $140K - $160K](https://www.workatastartup.com/jobs/98125)
-- [HedgeAI-Native insurance companyFounding EngineerFull-time · San Francisco - In Office · $150K - $250K](https://www.workatastartup.com/jobs/106795)
+- [LimrunExtend cloud sandboxes with iOS, Android and moreFounding EngineerFull-time · Istanbul, İstanbul, TR · $75K - $180K](https://www.workatastartup.com/jobs/114326)
+- [LimrunExtend cloud sandboxes with iOS, Android and moreFounding EngineerFull-time · San Francisco, CA, US · $180K - $300K](https://www.workatastartup.com/jobs/110499)
+- [RudusAI Takeoffs for ConcreteForward Deployed EngineerFull-time · San Francisco, CA, US / New York, NY, US · $140K - $160K](https://www.workatastartup.com/jobs/98126)
 - [Software Engineer Jobs](https://www.workatastartup.com/jobs/l/software-engineer)
 - [Software Engineer Jobs in San Francisco](https://www.workatastartup.com/jobs/san-francisco/software-engineer)
 - [Software Engineer Jobs in New York](https://www.workatastartup.com/jobs/new-york/software-engineer)
@@ -728,86 +730,83 @@ https://www.workatastartup.com/jobs
 ## jobs.a16z.com
 https://jobs.a16z.com/jobs
 
-- [Product Engineer - Onboarding Automation](https://jobs.a16z.com/jobs/stuut/e3aa0f61-713a-4d2f-86db-a5be16f25638--product-engineer-onboarding-automation)
-- [GRC Engineer](https://jobs.a16z.com/jobs/braintrust-data/fe7f5626-265f-4f95-a190-4a774d4b275e--grc-engineer)
-- [Software Engineer, Experimental Projects](https://jobs.a16z.com/jobs/stripe/8394936--software-engineer-experimental-projects)
-- [Hippocratic AI](https://jobs.a16z.com/jobs/hippocratic-ai)
-- [Quality Assurance Engineer](https://jobs.a16z.com/jobs/saronic-technologies/1ef2c166-09df-4eaf-9070-b41fe271e5b5--quality-assurance-engineer)
+- [Software Engineer, Ads](https://jobs.a16z.com/jobs/reddit/8415553--software-engineer-ads)
+- [Shield AI](https://jobs.a16z.com/jobs/shield-ai)
 
 ## jobs.sequoiacap.com
 https://jobs.sequoiacap.com/jobs
 
-- [Propulsion Engineer, Components Manufacturing Fabrication (Raptor)](https://boards.greenhouse.io/spacex/jobs/8959423002?gh_jid=8959423002)
+- [Strategic Solutions Engineer, West](https://job-boards.greenhouse.io/gleanwork/jobs/4757440005)
+- [Vehicle Modeling and Analysis Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4519740009)
+- [GTM Systems Engineer](https://jobs.ashbyhq.com/langchain/c6e10cdd-b387-40fa-afd9-61067066c8e4)
 - [Software Engineer, ML infrastructure](https://jobs.ashbyhq.com/sesame/7acfa545-7b2c-4fcc-9cc0-fd7a0c7c1419)
 - [Audio Systems Engineer](https://jobs.ashbyhq.com/sesame/040d7828-d53b-4a0b-8782-812d27fb3483)
-- [Vehicle Modeling and Analysis Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4519740009)
-- [Lead Build Engineer, Vehicle I&TE - Interceptors](https://job-boards.greenhouse.io/machindustries/jobs/4519101009)
+- [AI GTM Specialist, Model Hub](https://jobs.ashbyhq.com/benchling/89a58a83-82ee-4d9f-8d9d-a8056af04531)
+- [Software Engineer, Full Stack (Core Admin)](https://jobs.ashbyhq.com/benchling/0ad40d59-6e70-4081-8123-4864fc1b12d8)
+- [Design Engineer, Notion.com](https://jobs.ashbyhq.com/notion/881d1ece-c6a4-476d-b18d-d699627195e5)
+- [Infrastructure Engineer, Workflow Engine](https://stripe.com/jobs/search?gh_jid=8414532)
+- [Analytics Engineer](https://stripe.com/jobs/search?gh_jid=8415333)
+- [Software Engineer, Data Warehouse Analytics](https://stripe.com/jobs/search?gh_jid=8411927)
 
 ## jobs.khoslaventures.com
 https://jobs.khoslaventures.com/jobs
 
-- [Genie AI](https://jobs.khoslaventures.com/companies/genie-ai)
-- [Operations Analyst - Summer 2027 Graduates](https://jobs.khoslaventures.com/companies/traba-2/jobs/100652300-operations-analyst-summer-2027-graduates)
-- [Vehicle Modeling and Analysis Engineer](https://jobs.khoslaventures.com/companies/mach-industries-2/jobs/100642997-vehicle-modeling-and-analysis-engineer)
-- [Build Engineer, Vehicle Integration & Test](https://jobs.khoslaventures.com/companies/mach-industries-2/jobs/100642990-build-engineer-vehicle-integration-test)
-- [Lead Build Engineer, Vehicle I&TE - Interceptors](https://jobs.khoslaventures.com/companies/mach-industries-2/jobs/100642992-lead-build-engineer-vehicle-i-te-interceptors)
-- [Embedded Software Tools Engineer](https://jobs.khoslaventures.com/companies/mainspring-energy/jobs/100642358-embedded-software-tools-engineer)
-- [Product Release Engineer](https://jobs.khoslaventures.com/companies/mainspring-energy/jobs/100642365-product-release-engineer)
+- [Norm AI](https://jobs.khoslaventures.com/companies/norm-ai-2)
+- [Field Service Engineer II, France](https://jobs.khoslaventures.com/companies/ultima-genomics-2/jobs/100746765-field-service-engineer-ii-france)
+- [Software Engineer, Experimental Projects](https://jobs.khoslaventures.com/companies/stripe/jobs/100737927-software-engineer-experimental-projects)
 
 ## jobs.signalfire.com
 https://jobs.signalfire.com/jobs
 
 - [Horizon3.ai](https://jobs.signalfire.com/companies/horizon3-ai-2)
-- [Enterprise Data Architects: Interview on Analytics Platforms](https://jobs.signalfire.com/companies/terac/jobs/100577460-enterprise-data-architects-interview-on-analytics-platforms)
 - [Developers](https://www.signalfire.com/developers)
 
 ## wellfound.com
 https://wellfound.com/role/software-engineer
 
-- [Software Engineer](https://wellfound.com/jobs/4337353-software-engineer)
-- [Software Engineer](https://wellfound.com/jobs/5095010-software-engineer)
-- [Forward Deployed Engineer](https://wellfound.com/jobs/5035341-forward-deployed-engineer)
-- [Software Engineer](https://wellfound.com/jobs/4965854-software-engineer)
-- [Software Engineer](https://wellfound.com/jobs/4965878-software-engineer)
-- [Software Engineer, Cleared (TS/SCI)](https://wellfound.com/jobs/4722674-software-engineer-cleared-ts-sci)
-- [Software Engineer](https://wellfound.com/jobs/3544194-software-engineer)
 - [Software Engineer](https://wellfound.com/jobs/5137127-software-engineer)
-- [Software Engineer](https://wellfound.com/jobs/5135205-software-engineer)
-- [Tech Lead- Backend (Node.js+TypeScript+Postgres SQL)](https://wellfound.com/jobs/3403248-tech-lead-backend-node-js-typescript-postgres-sql)
-- [Software Engineer](https://wellfound.com/jobs/4627146-software-engineer)
-- [Software Engineer (Warsaw)](https://wellfound.com/jobs/5101774-software-engineer-warsaw)
-- [Product Engineer, Agent Experience](https://wellfound.com/jobs/5035308-product-engineer-agent-experience)
-- [Software Engineer](https://wellfound.com/jobs/4867218-software-engineer)
 - [Software Engineer — Platform](https://wellfound.com/jobs/4240814-software-engineer-platform)
 - [Software Engineer — AI Infra](https://wellfound.com/jobs/4240806-software-engineer-ai-infra)
 - [Software Engineer — Product](https://wellfound.com/jobs/4239846-software-engineer-product)
-- [Software Engineer](https://wellfound.com/jobs/4372312-software-engineer)
-- [Software Engineer](https://wellfound.com/jobs/4981464-software-engineer)
-- [Junior QA Engineer](https://wellfound.com/jobs/4875063-junior-qa-engineer)
-- [Software Engineer](https://wellfound.com/jobs/4716782-software-engineer)
-- [Software Engineer](https://wellfound.com/jobs/5044851-software-engineer)
-- [Software Engineer](https://wellfound.com/jobs/2448180-software-engineer)
-- [AI software engineer](https://wellfound.com/jobs/3038650-ai-software-engineer)
-- [Software engineer, generative AI](https://wellfound.com/jobs/4970364-software-engineer-generative-ai)
-- [Software engineer, agents (UK)](https://wellfound.com/jobs/4970362-software-engineer-agents-uk)
-- [Software engineer, agents](https://wellfound.com/jobs/4970361-software-engineer-agents)
-- [Software Engineer](https://wellfound.com/jobs/4579450-software-engineer)
-- [Design Engineer](https://wellfound.com/jobs/4897791-design-engineer)
-- [Software Engineer](https://wellfound.com/jobs/4599078-software-engineer)
-- [Cloud Developer Remote](https://wellfound.com/role/r/cloud-developer)
-- [Azure Developer Remote](https://wellfound.com/role/r/azure-developer)
-- [Alteryx Developer Remote](https://wellfound.com/role/r/alteryx-developer)
-- [Solutions Engineer Remote](https://wellfound.com/role/r/solutions-engineer)
-- [Cloud Systems Engineer Remote](https://wellfound.com/role/r/cloud-systems-engineer)
-- [C++ Developer Remote](https://wellfound.com/role/r/cplusplus-developer)
-- [Security Engineer Remote](https://wellfound.com/role/r/security-engineer)
-- [Cloud Developer](https://wellfound.com/role/cloud-developer)
-- [Azure Developer](https://wellfound.com/role/azure-developer)
-- [Alteryx Developer](https://wellfound.com/role/alteryx-developer)
-- [Solutions Engineer](https://wellfound.com/role/solutions-engineer)
-- [Cloud Systems Engineer](https://wellfound.com/role/cloud-systems-engineer)
-- [C++ Developer](https://wellfound.com/role/cplusplus-developer)
-- [Security Engineer](https://wellfound.com/role/security-engineer)
+- [Software Engineer](https://wellfound.com/jobs/5135205-software-engineer)
+- [Tech Lead- Backend (Node.js+TypeScript+Postgres SQL)](https://wellfound.com/jobs/3403248-tech-lead-backend-node-js-typescript-postgres-sql)
+- [Software Engineer: Core](https://wellfound.com/jobs/4263159-software-engineer-core)
+- [FullStack Engineer - Prospect Data Solutions](https://wellfound.com/jobs/4670736-fullstack-engineer-prospect-data-solutions)
+- [BackEnd Engineer: Experiments](https://wellfound.com/jobs/4263122-backend-engineer-experiments)
+- [Software Engineer, iOS](https://wellfound.com/jobs/5078023-software-engineer-ios)
+- [Software Engineer, Backend](https://wellfound.com/jobs/5078022-software-engineer-backend)
+- [Software Engineer, Agents](https://wellfound.com/jobs/5078020-software-engineer-agents)
+- [Software Engineer](https://wellfound.com/jobs/5095010-software-engineer)
+- [Software Engineer, Dash](https://wellfound.com/jobs/5128849-software-engineer-dash)
+- [Software Engineer II](https://wellfound.com/jobs/5101958-software-engineer-ii)
+- [Full-Stack Software Engineer (New Grad)](https://wellfound.com/jobs/4897771-full-stack-software-engineer-new-grad)
+- [Software Engineer](https://wellfound.com/jobs/3272257-software-engineer)
+- [Lead Software Engineer](https://wellfound.com/jobs/5137517-lead-software-engineer)
+- [Implementation Engineer](https://wellfound.com/jobs/5034897-implementation-engineer)
+- [Software Engineer](https://wellfound.com/jobs/4869761-software-engineer)
+- [Lead Go Software Engineer](https://wellfound.com/jobs/3212567-lead-go-software-engineer)
+- [Lead Svelte Software Engineer](https://wellfound.com/jobs/3670460-lead-svelte-software-engineer)
+- [Software Engineer](https://wellfound.com/jobs/2421931-software-engineer)
+- [AI Agentic Software Engineer](https://wellfound.com/jobs/5136699-ai-agentic-software-engineer)
+- [Software Engineer](https://wellfound.com/jobs/5042424-software-engineer)
+- [Software Engineer](https://wellfound.com/jobs/4926594-software-engineer)
+- [Software Engineer, iOS](https://wellfound.com/jobs/4496915-software-engineer-ios)
+- [Software Engineer](https://wellfound.com/jobs/4337353-software-engineer)
+- [Electrical Design Engineer](https://wellfound.com/jobs/4849917-electrical-design-engineer)
+- [Golang Developer Remote](https://wellfound.com/role/r/golang-developer)
+- [Software Test Automation Engineer Remote](https://wellfound.com/role/r/software-test-automation-engineer)
+- [Gatsby Developer Remote](https://wellfound.com/role/r/gatsby-developer)
+- [PHP Developer Remote](https://wellfound.com/role/r/php-developer)
+- [UX Engineer Remote](https://wellfound.com/role/r/ux-engineer)
+- [Marklogic Developer Remote](https://wellfound.com/role/r/marklogic-developer)
+- [Laravel Developer Remote](https://wellfound.com/role/r/laravel-developer)
+- [Golang Developer](https://wellfound.com/role/golang-developer)
+- [Software Test Automation Engineer](https://wellfound.com/role/software-test-automation-engineer)
+- [Gatsby Developer](https://wellfound.com/role/gatsby-developer)
+- [PHP Developer](https://wellfound.com/role/php-developer)
+- [UX Engineer](https://wellfound.com/role/ux-engineer)
+- [Marklogic Developer](https://wellfound.com/role/marklogic-developer)
+- [Laravel Developer](https://wellfound.com/role/laravel-developer)
 - [Junior Software Engineer Jobs](https://wellfound.com/job-collections/junior-software-engineer-jobs)
 - [Remote Software Engineer Jobs](https://wellfound.com/role/r/software-engineer)
 - [Frontend Developer Jobs in San Francisco](https://wellfound.com/role/l/frontend-engineer/san-francisco)
@@ -821,13 +820,12 @@ https://wellfound.com/role/software-engineer
 https://startup.jobs/?q=software+engineer
 
 - [Search startup jobs from any AI assistant How it works](https://startup.jobs/agents)
-- [GoCardless Bank payment infrastructure for businesses.](https://startup.jobs/company/gocardless)
-- [Twitch Live streaming platform for gaming and beyond.](https://startup.jobs/company/twitch)
-- [Palantir Technologies Software platforms for data-driven operations and decisions.](https://startup.jobs/company/palantir)
+- [Suno AI that lets anyone make music.](https://startup.jobs/company/suno)
+- [Known AI-powered matchmaking that connects people through conversation.](https://startup.jobs/company/known-com)
+- [Hypebeast Global media and commerce platform for contemporary culture.](https://startup.jobs/company/hypebeast)
 - [Founding Engineer (with equity)](https://startup.jobs/founding-engineer-with-equity-miru-technology-inc-7933051)
-- [Web Developer](https://startup.jobs/web-developer-optimizely-10868915)
-- [Junior Customer Success Developer (Front-end)](https://startup.jobs/junior-customer-success-developer-front-end-boxhq-10867096)
-- [Data Engineer - Big Data](https://startup.jobs/data-engineer-big-data-similarweb-10866962)
+- [Sweden](https://startup.jobs/locations/sweden)
+- [Data Analytics Engineer](https://startup.jobs/data-analytics-engineer-renttherunway-10881209)
 - [Engineering](https://startup.jobs/roles/engineering)
 - [Android Developer](https://startup.jobs/roles/android-developer)
 - [Backend Engineer](https://startup.jobs/roles/backend-engineer)
@@ -845,11 +843,6 @@ https://startup.jobs/?q=software+engineer
 - [Software Architect](https://startup.jobs/roles/software-architect)
 - [Software Engineer](https://startup.jobs/roles/software-engineer)
 - [Systems Engineer](https://startup.jobs/roles/systems-engineer)
-- [Software Engineer](https://startup.jobs/plus/upsell?feature=early_access)
-- [Software Engineer – Agentic Computational Engineering](https://startup.jobs/software-engineer-agentic-computational-engineering-voyager-technologies-inc-10868976)
-- [Software Engineer II, Consumer](https://startup.jobs/software-engineer-ii-consumer-toast-10868254)
-- [Software Engineer (Python, GenAI, FastAPi)](https://startup.jobs/software-engineer-python-genai-fastapi-nielseniq-10860496)
-- [Software Engineer, Data Tooling](https://startup.jobs/software-engineer-data-tooling-roblox-10866792)
 
 ## builtin.com
 https://builtin.com/jobs/dev-engineering
@@ -900,10 +893,20 @@ https://builtin.com/jobs/dev-engineering
 - [Test Engineer Jobs](https://builtin.com/jobs/dev-engineering/search/test-engineer)
 - [Web Developer Jobs](https://builtin.com/jobs/dev-engineering/search/web-developer)
 
+## simplify.jobs
+https://simplify.jobs/jobs?query=new%20grad%20software%20engineer
+
+- no job-looking links found (open pages/ file to check)
+
 ## jobright.ai
 https://jobright.ai/jobs/search?value=software%20engineer%20new%20grad
 
 - no job-looking links found (open pages/ file to check)
+
+## hiring.cafe
+https://hiring.cafe/
+
+- [Software Engineer jobs](https://hiringcafe.com/jobs/software-engineer)
 
 ## github.com
 https://github.com/SimplifyJobs/New-Grad-Positions
@@ -943,15 +946,43 @@ https://github.com/SimplifyJobs/New-Grad-Positions
 - [Yale University](https://simplify.jobs/c/Yale-University)
 - [BIS Safety Software](https://simplify.jobs/c/BIS-Safety-Software)
 
-## simplify.jobs
-https://simplify.jobs/jobs?query=new%20grad%20software%20engineer
+## www.ai-jobs.net
+https://www.ai-jobs.net/
 
-- no job-looking links found (open pages/ file to check)
-
-## hiring.cafe
-https://hiring.cafe/
-
-- no job-looking links found (open pages/ file to check)
+- [Inference Optimization Engineer](https://foorilla.com/hiring/jobs/inference-optimization-engineer-united-states-canada-4204844/)
+- [Cybersecurity Solutions Engineer](https://foorilla.com/hiring/jobs/cybersecurity-solutions-engineer-kirkland-united-states-4204770/)
+- [(0195) Software Engineer](https://foorilla.com/hiring/jobs/0195-software-engineer-columbia-md-us-4204347/)
+- [Junior – GenAI & Agentic AI Insurance](https://foorilla.com/hiring/jobs/junior-genai-agentic-ai-insurance-milano-4203610/)
+- [AI/ML engineer (with Backend skills)](https://foorilla.com/hiring/jobs/aiml-engineer-with-backend-skills-bengaluru-ka-in-remote-bengaluru-ka-in-4203700/)
+- [​​Systems Application Engineer, ATC Portfolio Projects​ - Columbia, MD](https://foorilla.com/hiring/jobs/systems-application-engineer-atc-portfolio-projects-columbia-md-columbia-maryland-4204693/)
+- [Infrastructure Engineer](https://foorilla.com/hiring/jobs/infrastructure-engineer-sevenoaks-england-gb-4204442/)
+- [Nothing offers a full look at its AI earbuds and charging case](https://foorilla.com/media/items/nothing-offers-a-full-look-at-its-ai-earbuds-and-charging-case-707361/)
+- [Art of play in the age of AI](https://foorilla.com/media/items/art-of-play-in-the-age-of-ai-707339/)
+- [Open-weight models are the hottest thing in AI. Are they right for you?](https://foorilla.com/media/items/open-weight-models-are-the-hottest-thing-in-ai-are-they-right-for-you-707312/)
+- [Permut raises €3M to turn conversational AI into a revenue driver for brands](https://foorilla.com/media/items/permut-raises-3m-to-turn-conversational-ai-into-a-revenue-driver-for-brands-707321/)
+- [The Hidden Cost of AI Coding: Why Context Matters More Than Tokens](https://foorilla.com/media/items/the-hidden-cost-of-ai-coding-why-context-matters-more-than-tokens-707374/)
+- [Sex services platform HOT.com leaked 1.22 TB of data: contacts, social networks, and geolocation of millions of sex workers were exposed](https://foorilla.com/media/items/sex-services-platform-hotcom-leaked-122-tb-of-data-contacts-social-networks-and-geolocation-of-millions-of-sex-workers-were-exposed-707149/)
+- [The More AI Reshapes B2B, The More Human It Needs To Become](https://foorilla.com/media/items/the-more-ai-reshapes-b2b-the-more-human-it-needs-to-become-707165/)
+- [Lute Raises $20M Across Pre-Seed and Seed to Scale Physical AI](https://foorilla.com/media/items/lute-raises-20m-across-pre-seed-and-seed-to-scale-physical-ai-707375/)
+- [Stocks Swoon as AI Fears Spur Rush to Treasuries](https://foorilla.com/media/items/stocks-swoon-as-ai-fears-spur-rush-to-treasuries-707115/)
+- [Integrated Semantic Sensing and Communications: Target Attribute Inference and Beamforming Design](https://foorilla.com/research/papers/integrated-semantic-sensing-and-communications-target-attribute-inference-and-beamforming-design-413356/)
+- [AI World Congress](https://foorilla.com/meet/events/ai-world-congress-40125/)
+- [AI World Congress](https://foorilla.com/meet/organizers/ai-world-congress-12115/)
+- [WeAreDevelopers Conference India](https://foorilla.com/meet/events/wearedevelopers-conference-india-40126/)
+- [WeAreDevelopers Conference India](https://foorilla.com/meet/organizers/wearedevelopers-conference-india-12116/)
+- [WeAreDevelopers World Congress India](https://foorilla.com/meet/events/wearedevelopers-world-congress-india-1-41399/)
+- [WeAreDevelopers World Congress India](https://foorilla.com/meet/organizers/wearedevelopers-world-congress-india-12254/)
+- [Zero Cost, Full Context: Product in the AI Age](https://foorilla.com/meet/events/zero-cost-full-context-product-in-the-ai-age-42859/)
+- [Thames Valley AI HUB - Learn, Contribute & Connect](https://foorilla.com/meet/organizers/thames-valley-ai-hub-learn-contribute-connect-4062/)
+- [LLM Personas As Potential Moral Patients – Patrick Butlin (Eleos AI)](https://foorilla.com/meet/events/llm-personas-as-potential-moral-patients-patrick-butlin-eleos-ai-44858/)
+- [AI assistants are everywhere. Let’s make them accessible with Fanny Demey](https://foorilla.com/meet/events/ai-assistants-are-everywhere-lets-make-them-accessible-with-fanny-demey-46262/)
+- [The AI Briefing Room](https://foorilla.com/meet/organizers/the-ai-briefing-room-11175/)
+- [AWS SBG at University for Development Studies - City Campus](https://foorilla.com/meet/organizers/aws-sbg-at-university-for-development-studies-city-campus-11233/)
+- [Tsinghua University 8,403 [Org]](https://foorilla.com/entities/21218/)
+- [Shanghai Jiao Tong University 5,992 [Org]](https://foorilla.com/entities/21401/)
+- [Peking University 5,767 [Org]](https://foorilla.com/entities/21277/)
+- [Zhejiang University 5,573 [Org]](https://foorilla.com/entities/21339/)
+- [Carnegie Mellon University 4,831 [Org]](https://foorilla.com/entities/18883/)
 
 ## github.com
 https://github.com/vanshb03/New-Grad-2027
@@ -962,77 +993,29 @@ https://github.com/vanshb03/New-Grad-2027
 - [university](https://github.com/topics/university)
 - [GitHub UniverseThe event for developers, by developers — talks, workshops, and what’s next for GitHub.](https://githubuniverse.com/)
 
-## news.ycombinator.com
-https://news.ycombinator.com/jobs
-
-- [tasklet.ai](https://news.ycombinator.com/from?site=tasklet.ai)
-- [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)
-- [Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers](https://www.ycombinator.com/companies/mbodi-ai/jobs)
-- [Bild AI (YC W25) Is Hiring Founding Product Engineers](https://www.ycombinator.com/companies/bild-ai/jobs)
-- [Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC](https://www.ycombinator.com/companies/sava-trust-company/jobs)
-- [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
-- [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
-- [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
-- [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
-- [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
-- [UpCodes (YC S17) is hiring SDR's to sell AI compliance software](https://up.codes/careers)
-- [Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)](https://bitmovin.com/careers/8660599002/)
-- [Converge (YC S23) Is Hiring a Founding Platform Engineer](https://www.runconverge.com/careers/founding-platform-engineer)
-- [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
-- [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
-
-## www.ai-jobs.net
-https://www.ai-jobs.net/
-
-- [Identity Services Engineer 2](https://foorilla.com/hiring/jobs/identity-services-engineer-2-pennsylvania-philadelphia-main-campus-4194404/)
-- [Software Engineer II](https://foorilla.com/hiring/jobs/software-engineer-ii-hartford-connecticut-united-states-stamford-connecticut-united-states-4194104/)
-- [Lead Architect Microsoft Data & AI - L2](https://foorilla.com/hiring/jobs/lead-architect-microsoft-data-ai-l2-minneapolis-usa-mn-us-55401-4193941/)
-- [INTEGRATION Developer](https://foorilla.com/hiring/jobs/integration-developer-columbus-usa-oh-us-8022-4193259/)
-- [TIBCO Middleware Engineer](https://foorilla.com/hiring/jobs/tibco-middleware-engineer-irving-usa-tx-us-14081-4193174/)
-- [AI Engineer](https://foorilla.com/hiring/jobs/ai-engineer-louisville-usa-ky-us-30434-4193146/)
-- [Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand](https://foorilla.com/media/items/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand-705962/)
-- [How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers](https://foorilla.com/media/items/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers-705913/)
-- [Anthropic shares fall below IPO price, a worrying sign for AI startups](https://foorilla.com/media/items/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups-705968/)
-- [Score-aware nonparametric adaptation of prediction-powered inference](https://foorilla.com/research/papers/score-aware-nonparametric-adaptation-of-prediction-powered-inference-412213/)
-- [Agentic AI for Intent Management and Control in Autonomous Communication Networks](https://foorilla.com/research/papers/agentic-ai-for-intent-management-and-control-in-autonomous-communication-networks-412202/)
-- [A Mixed-Methods Study of Personal Software Creation](https://foorilla.com/research/papers/a-mixed-methods-study-of-personal-software-creation-412200/)
-- [WeAreDevelopers World Congress India](https://foorilla.com/meet/events/wearedevelopers-world-congress-india-40278/)
-- [WeAreDevelopers World Congress India](https://foorilla.com/meet/organizers/wearedevelopers-world-congress-india-12254/)
-- [AI First Ways of Working](https://foorilla.com/meet/events/ai-first-ways-of-working-42811/)
-- [AI Founders Sunset Club](https://foorilla.com/meet/organizers/ai-founders-sunset-club-10632/)
-- [AI Escape Incidents](https://foorilla.com/meet/events/ai-escape-incidents-1-43337/)
-- [AI Safety Awareness Group Boston](https://foorilla.com/meet/organizers/ai-safety-awareness-group-boston-10066/)
-- [From AI Chat to Real AI Tools](https://foorilla.com/meet/events/from-ai-chat-to-real-ai-tools-44889/)
-- [Tsinghua University 8,660 [Org]](https://foorilla.com/entities/21218/)
-- [Shanghai Jiao Tong University 6,192 [Org]](https://foorilla.com/entities/21401/)
-- [Peking University 5,905 [Org]](https://foorilla.com/entities/21277/)
-- [Zhejiang University 5,838 [Org]](https://foorilla.com/entities/21339/)
-- [Nanyang Technological University 4,771 [Org]](https://foorilla.com/entities/11820/)
-- [National University of Singapore 4,625 [Org]](https://foorilla.com/entities/21346/)
-
 ## www.naukri.com
 https://www.naukri.com/software-engineer-jobs-in-bangalore
 
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-2-years-191126505021)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-ibrowsejobs-technologies-bengaluru-0-to-5-years-231126011501)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-181126927080)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-241126010494)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-mphasis-hyderabad-bengaluru-6-to-9-years-231126017245)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-tvm-infotech-chennai-bengaluru-3-to-6-years-241126016236)
 - [CPU Software Engineer](https://www.naukri.com/job-listings-cpu-software-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-231126917728)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-5-to-10-years-211126501016)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-3-to-8-years-211126504692)
-- [Software Engineer- AI](https://www.naukri.com/job-listings-software-engineer-ai-zeiss-pharmaceutical-s-bengaluru-25-to-30-years-231126501436)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-allegis-group-bengaluru-4-to-5-years-241126027487)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-201126917211)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-5-to-10-years-201126917209)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-first-meridian-business-services-bengaluru-6-to-10-years-231126003093)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-5-to-10-years-201126917228)
-- [API software Engineer](https://www.naukri.com/job-listings-api-software-engineer-symphoni-hr-bengaluru-9-to-14-years-241126011810)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-net-connect-bengaluru-3-to-6-years-241126030175)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-201126917232)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-2-to-5-years-201126917172)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-7-to-12-years-191126923376)
+- [Software Engineer - SDV/AIDV](https://www.naukri.com/job-listings-software-engineer-sdv-aidv-tvs-motor-company-hubballi-mangaluru-mysuru-bengaluru-belagavi-0-to-5-years-251126505484)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-251126921505)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-251126921478)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-5-to-10-years-251126921522)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-251126921516)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-15-to-20-years-251126921514)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-5-to-10-years-251126921521)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-15-to-20-years-251126921463)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-5-to-10-years-251126921508)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-5-to-10-years-251126921444)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-7-to-12-years-251126921502)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-12-to-17-years-251126921427)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-7-to-12-years-251126921506)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-12-to-17-years-251126921472)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-15-to-20-years-251126921498)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-12-to-17-years-251126921438)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-7-to-12-years-251126921459)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-7-to-12-years-251126921492)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-5-to-10-years-251126921524)
 - [Software Development Engineer Jobs In Delhi NCR](https://www.naukri.com/software-development-engineer-jobs-in-delhi-ncr)
 - [Software Engineer 2 Jobs In Delhi NCR](https://www.naukri.com/software-engineer-2-jobs-in-delhi-ncr)
 - [Software Test Engineer Jobs In Delhi NCR](https://www.naukri.com/software-test-engineer-jobs-in-delhi-ncr)
@@ -1088,26 +1071,26 @@ https://www.naukri.com/software-engineer-jobs-in-bangalore
 ## www.naukri.com
 https://www.naukri.com/software-engineer-jobs-in-hyderabad
 
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-hyderabad-0-to-5-years-181126927679)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-241126010494)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-mphasis-hyderabad-bengaluru-6-to-9-years-231126017245)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-virtusa-hyderabad-chennai-bengaluru-6-to-11-years-191126016246)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-191126923795)
-- [C++ Software Engineer](https://www.naukri.com/job-listings-c-software-engineer-careernet-hyderabad-7-to-9-years-231126011754)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-191126923724)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-201126917130)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-191126923721)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-191126923722)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-191126928231)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-10-to-12-years-191126923781)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-191126923931)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-191126923849)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-201126917098)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-7-to-12-years-191126923796)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-7-to-12-years-191126923851)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-10-to-12-years-191126923900)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-191126923933)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-191126923719)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-251126919453)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-251126920117)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-251126920901)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-251126920444)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-251126920443)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-2-to-7-years-251126919891)
+- [AI Native Software Engineer](https://www.naukri.com/job-listings-ai-native-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-251126920847)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-251126920903)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-251126920902)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-251126920968)
+- [Software Engineer - AIML](https://www.naukri.com/job-listings-software-engineer-aiml-texas-instruments-india-ltd-hyderabad-bengaluru-5-to-10-years-251126501656)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-251126920738)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-251126920727)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-251126921181)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-5-to-10-years-251126919767)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-12-to-17-years-251126921263)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-251126919452)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-7-to-12-years-251126921027)
 - [Software Development Engineer Jobs In Bangalore](https://www.naukri.com/software-development-engineer-jobs-in-bangalore)
 - [Software Engineer 2 Jobs In Bangalore](https://www.naukri.com/software-engineer-2-jobs-in-bangalore)
 - [Software Test Engineer Jobs In Bangalore](https://www.naukri.com/software-test-engineer-jobs-in-bangalore)
@@ -1166,23 +1149,23 @@ https://www.naukri.com/software-engineer-jobs-in-gurgaon
 - [Software Engineer (Evergreen)](https://www.naukri.com/job-listings-software-engineer-evergreen-cisco-gurugram-10-to-15-years-130826500011)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-graviton-research-capital-llp-gurugram-1-to-5-years-160218500757)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-payu-india-gurugram-2-to-7-years-011025501487)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-natwest-digital-services-india-pvt-ltd-gurugram-bengaluru-1-to-6-years-201126921697)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-natwest-digital-services-india-pvt-ltd-gurugram-1-to-6-years-231126917752)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-2-to-7-years-181126919498)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-3-to-8-years-191126923231)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-natwest-digital-services-india-pvt-ltd-chennai-gurugram-bengaluru-5-to-10-years-181126932486)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-201126917141)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-181126919303)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-171126911203)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-3-to-8-years-181126919516)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-6-to-11-years-191126923390)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-12-to-17-years-201126917124)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-201126917142)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-7-to-12-years-181126919934)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-191126923239)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-3-to-8-years-181126919342)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-191126928177)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-7-to-12-years-191126923204)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-3-to-8-years-251126919060)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-3-to-8-years-251126919233)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-3-to-8-years-251126919934)
+- [Software Engineer | eLearning Developer(Storyline)](https://www.naukri.com/job-listings-software-engineer-elearning-developer-storyline-niit-learning-systems-gurugram-1-to-5-years-251126024036)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-3-to-8-years-251126919037)
+- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-moodys-investors-service-gurugram-5-to-6-years-251126502161)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-251126918212)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-7-to-12-years-251126919450)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-251126918599)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-251126918570)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-251126919218)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-251126918783)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-251126919358)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-251126918502)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-7-to-12-years-251126919040)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-251126920275)
+- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-251126919165)
 - [Software Development Engineer Jobs In Bangalore](https://www.naukri.com/software-development-engineer-jobs-in-bangalore)
 - [Software Engineer 2 Jobs In Bangalore](https://www.naukri.com/software-engineer-2-jobs-in-bangalore)
 - [Software Test Engineer Jobs In Bangalore](https://www.naukri.com/software-test-engineer-jobs-in-bangalore)
@@ -1253,21 +1236,21 @@ https://www.naukri.com/software-engineer-jobs-in-noida
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-visitpay-noida-7-to-10-years-050925501108)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-capgemini-noida-4-to-9-years-131026042394)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-training-basket-noida-0-to-1-years-111126504443)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-tollring-noida-greater-noida-delhi-ncr-2-to-6-years-191126020468)
+- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-idemia-group-noida-3-to-5-years-251126506099)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-biz2x-platform-private-limited-noida-2-to-6-years-131026032399)
 - [BIZ2X Platform Private Limited](https://www.naukri.com/biz2x-platform-jobs-careers-805698)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-infinite-computer-solutions-india-pvt-ltd-noida-0-to-4-years-181126502022)
 - [Standard Cell Generation Infrastructure & Tooling Software Engineer](https://www.naukri.com/job-listings-standard-cell-generation-infrastructure-tooling-software-engineer-zia-semiconductor-greater-noida-1-to-3-years-181126018469)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-infinite-computer-solutions-india-pvt-ltd-noida-0-to-4-years-181126502023)
+- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-infinite-computer-solutions-india-pvt-ltd-noida-1-to-5-years-251126505530)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-r1-rcm-global-private-limited-noida-2-to-4-years-261026922157)
 - [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-noida-3-to-8-years-131026940484)
+- [RR-0452079-Insurance Software Engineer](https://www.naukri.com/job-listings-rr-0452079-insurance-software-engineer-dxc-technology-noida-1-to-6-years-251126505555)
 - [Software Engineer - Resilience](https://www.naukri.com/job-listings-software-engineer-resilience-diverse-lynx-noida-4-to-6-years-191126501925)
 - [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-noida-7-to-12-years-131026940374)
-- [Software Engineer](https://www.naukri.com/job-listings-software-engineer-shashwath-solution-noida-7-to-10-years-111126926644)
 - [Standard Cell Generation Infrastructure & Tooling Software Engineer](https://www.naukri.com/job-listings-standard-cell-generation-infrastructure-tooling-software-engineer-zia-semiconductor-greater-noida-5-to-10-years-191126021087)
 - [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-noida-12-to-15-years-131026940490)
 - [Software Engineer](https://www.naukri.com/job-listings-software-engineer-r1-rcm-global-private-limited-noida-7-to-10-years-261026922152)
-- [Custom Software Engineer](https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-noida-7-to-12-years-131026939676)
 - [Software Development Engineer Jobs In Bangalore](https://www.naukri.com/software-development-engineer-jobs-in-bangalore)
 - [Software Engineer 2 Jobs In Bangalore](https://www.naukri.com/software-engineer-2-jobs-in-bangalore)
 - [Software Test Engineer Jobs In Bangalore](https://www.naukri.com/software-test-engineer-jobs-in-bangalore)
@@ -1328,6 +1311,25 @@ https://www.naukri.com/software-engineer-jobs-in-noida
 - [IT Software Engineer Jobs](https://www.naukri.com/it-software-engineer-jobs)
 - [Software Engineer 1 Jobs](https://www.naukri.com/software-engineer-1-jobs)
 
+## news.ycombinator.com
+https://news.ycombinator.com/jobs
+
+- [tasklet.ai](https://news.ycombinator.com/from?site=tasklet.ai)
+- [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)
+- [Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers](https://www.ycombinator.com/companies/mbodi-ai/jobs)
+- [Bild AI (YC W25) Is Hiring Founding Product Engineers](https://www.ycombinator.com/companies/bild-ai/jobs)
+- [Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC](https://www.ycombinator.com/companies/sava-trust-company/jobs)
+- [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
+- [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
+- [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
+- [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
+- [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
+- [UpCodes (YC S17) is hiring SDR's to sell AI compliance software](https://up.codes/careers)
+- [Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)](https://bitmovin.com/careers/8660599002/)
+- [Converge (YC S23) Is Hiring a Founding Platform Engineer](https://www.runconverge.com/careers/founding-platform-engineer)
+- [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
+- [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+
 ## cutshort.io
 https://cutshort.io/jobs
 
@@ -1378,6 +1380,12 @@ https://hirist.tech/
 - [Google Cloud Platform](https://www.hirist.tech/k/google-cloud-platform-jobs)
 - [IT Infrastructure](https://www.hirist.tech/k/it-infrastructure-jobs)
 
+## www.foundit.in
+https://www.foundit.in/srp/results?query=software+engineer
+
+- [Software Testing](https://www.foundit.in/search/software-testing-jobs)
+- [Electrical Engineering](https://www.foundit.in/search/electrical-engineering-jobs)
+
 ## wellfound.com
 https://wellfound.com/location/india
 
@@ -1386,27 +1394,27 @@ https://wellfound.com/location/india
 - [AI Engineer – B2B SaaS (Remote)](https://wellfound.com/jobs/5135384-ai-engineer-b2b-saas-remote)
 - [Robotics Field Test Engineer](https://wellfound.com/jobs/5061270-robotics-field-test-engineer)
 - [Robotics Engineer](https://wellfound.com/jobs/5062846-robotics-engineer)
-- [Software Engineer - Applied Mathematics](https://wellfound.com/jobs/4632624-software-engineer-applied-mathematics)
-- [System Software Engineer](https://wellfound.com/jobs/4632634-system-software-engineer)
-- [Computer Vision Engineer](https://wellfound.com/jobs/255384-computer-vision-engineer)
-- [Forward Deployed Engineer](https://wellfound.com/jobs/5137295-founding-engineer-builder-experience-clone)
-- [Founding Engineer, Platform Capabilities](https://wellfound.com/jobs/5081936-founding-engineer-platform-capabilities)
+- [GTM Engineer](https://wellfound.com/jobs/3939415-gtm-engineer)
+- [Full Stack AI Engineer](https://wellfound.com/jobs/5137624-full-stack-ai-engineer)
+- [Applied AI Engineer (RAG, Agents & Multilingual AI)](https://wellfound.com/jobs/5137377-applied-ai-engineer-rag-agents-multilingual-ai)
 - [Quality Assurance Engineer / Software Development Testing](https://wellfound.com/jobs/2106782-quality-assurance-engineer-software-development-testing)
 - [Fullstack Engineer](https://wellfound.com/jobs/5067313-fullstack-engineer)
 - [Software Engineer- iOS SDK Engineer (BLE)](https://wellfound.com/jobs/5105945-software-engineer-ios-sdk-engineer-ble)
 - [Algorithm Engineer](https://wellfound.com/jobs/5105942-algorithm-engineer)
+- [Forward Deployed Engineer](https://wellfound.com/jobs/5137295-founding-engineer-builder-experience-clone)
+- [Founding Engineer, Platform Capabilities](https://wellfound.com/jobs/5081936-founding-engineer-platform-capabilities)
 - [Founding Engineer — Physics × EE × ML](https://wellfound.com/jobs/5078012-founding-engineer-physics-x-ee-x-ml)
 - [Software Engineer – Product](https://wellfound.com/jobs/5101345-software-engineer-product)
+- [System Software Engineer](https://wellfound.com/jobs/4632634-system-software-engineer)
+- [Software Development Engineer in Test ( SDET )](https://wellfound.com/jobs/4634106-software-development-engineer-in-test-sdet)
+- [Computer Vision Engineer](https://wellfound.com/jobs/255384-computer-vision-engineer)
 - [Developer](https://wellfound.com/jobs/5101348-developer)
 - [DevOps Engineer](https://wellfound.com/jobs/2150668-devops-engineer)
-- [Founding AI Systems Engineer](https://wellfound.com/jobs/5035446-founding-ai-systems-engineer)
-- [Backend Developer (Java + Python)](https://wellfound.com/jobs/5101660-backend-developer-java-python)
-- [Software Engineer](https://wellfound.com/jobs/4981464-software-engineer)
-- [Junior QA Engineer](https://wellfound.com/jobs/4875063-junior-qa-engineer)
-- [Python Developer Remote](https://wellfound.com/role/r/python-developer)
-- [Ecommerce Developer Remote](https://wellfound.com/role/r/ecommerce-developer)
-- [PHP Developer Remote](https://wellfound.com/role/r/php-developer)
-- [Frontend Engineer Remote](https://wellfound.com/role/r/frontend-engineer)
+- [Java Backend Developer Remote](https://wellfound.com/role/r/java-backend-developer)
+- [Unity Developer Remote](https://wellfound.com/role/r/unity-developer)
+- [UX Engineer Remote](https://wellfound.com/role/r/ux-engineer)
+- [Pega Developer Remote](https://wellfound.com/role/r/pega-developer)
+- [Rust Developer Remote](https://wellfound.com/role/r/rust-developer)
 - [Junior Software Engineer Jobs](https://wellfound.com/job-collections/junior-software-engineer-jobs)
 - [Remote Software Engineer Jobs](https://wellfound.com/role/r/software-engineer)
 - [Software Engineer Jobs](https://wellfound.com/role/software-engineer)
@@ -1420,38 +1428,33 @@ https://wellfound.com/location/india
 - [Hire Developers](https://wellfound.com/hire)
 - [Platform Status](https://status.wellfound.com)
 
-## in.indeed.com
-https://in.indeed.com/jobs?q=software+engineer&l=Bengaluru
-
-- no job-looking links found (open pages/ file to check)
-
-## www.foundit.in
-https://www.foundit.in/srp/results?query=software+engineer
-
-- no job-looking links found (open pages/ file to check)
-
 ## www.postman.com
 https://www.postman.com/company/careers/
 
 - [Developer Productivity](https://www.postman.com/category/developer-productivity)
-
-## www.flipkartcareers.com
-https://www.flipkartcareers.com/
-
-- no job-looking links found (open pages/ file to check)
 
 ## careers.swiggy.com
 https://careers.swiggy.com/
 
 - no job-looking links found (open pages/ file to check)
 
-## careers.cred.club
-https://careers.cred.club/
+## in.indeed.com
+https://in.indeed.com/jobs?q=software+engineer&l=Bengaluru
 
 - no job-looking links found (open pages/ file to check)
 
 ## www.zepto.com
 https://www.zepto.com/careers
+
+- no job-looking links found (open pages/ file to check)
+
+## www.flipkartcareers.com
+https://www.flipkartcareers.com/
+
+- no job-looking links found (open pages/ file to check)
+
+## careers.cred.club
+https://careers.cred.club/
 
 - no job-looking links found (open pages/ file to check)
 
@@ -1466,12 +1469,6 @@ https://jobs.lever.co/meesho
 - [Security Engineer III - Infra SecurityOn-site — Full Time EmployeeBangalore, Karnataka](https://jobs.lever.co/meesho/9b5a5436-cdc3-4bcd-8e5e-b7294af185d5)
 - [Security Engineer IVOn-site — Full Time EmployeeBangalore, Karnataka](https://jobs.lever.co/meesho/f4e2e8e1-6863-4fe0-85fb-7840189cad3f)
 
-## www.freshworks.com
-https://www.freshworks.com/company/careers/
-
-- [Freshworks Platform](https://www.freshworks.com/platform/)
-- [Freshworks AI](https://www.freshworks.com/platform/ai-capability/)
-
 ## relocate.me
 https://relocate.me/search?query=software+engineer
 
@@ -1482,6 +1479,12 @@ https://relocate.me/search?query=software+engineer
 - [Software Engineer (Java) - Warehouse Automation in Amsterdam](https://relocate.me/netherlands/amsterdam/picnic/software-engineer-java-warehouse-automation-10314)
 - [Lead Security Engineer in Amsterdam](https://relocate.me/netherlands/amsterdam/catawiki/lead-security-engineer-10303)
 - [Software Engineer - Consumer Products in Amsterdam](https://relocate.me/netherlands/amsterdam/picnic/software-engineer-consumer-products-10256)
+
+## www.freshworks.com
+https://www.freshworks.com/company/careers/
+
+- [Freshworks Platform](https://www.freshworks.com/platform/)
+- [Freshworks AI](https://www.freshworks.com/platform/ai-capability/)
 
 ## swissdevjobs.ch
 https://swissdevjobs.ch/jobs
@@ -1513,6 +1516,7 @@ https://swissdevjobs.ch/jobs
 ## berlinstartupjobs.com
 https://berlinstartupjobs.com/engineering/
 
+- [Fullstack](https://berlinstartupjobs.com/skill-areas/fullstack/)
 - [Applied ML Engineer](https://berlinstartupjobs.com/engineering/applied-ml-engineer-laniakea-solutions/)
 - [Explainable AI](https://berlinstartupjobs.com/skill-areas/explainable-ai/)
 - [ML](https://berlinstartupjobs.com/skill-areas/ml/)
@@ -1529,7 +1533,6 @@ https://berlinstartupjobs.com/engineering/
 - [Machine Learning](https://berlinstartupjobs.com/skill-areas/machine-learning/)
 - [Cloud & DevOps Engineer – Kubernetes, Edge & Cloud](https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/)
 - [Frontend](https://berlinstartupjobs.com/skill-areas/frontend/)
-- [Fullstack](https://berlinstartupjobs.com/skill-areas/fullstack/)
 - [Product Engineer](https://berlinstartupjobs.com/engineering/product-engineer-withyou/)
 - [Developer](https://berlinstartupjobs.com/skill-areas/developer/)
 - [Product Engineer](https://berlinstartupjobs.com/skill-areas/product-engineer/)
@@ -1544,7 +1547,6 @@ https://berlinstartupjobs.com/engineering/
 - [Mobile Engineer](https://berlinstartupjobs.com/skill-areas/mobile-engineer/)
 - [Swift Developer](https://berlinstartupjobs.com/skill-areas/swift-developer/)
 - [Fullstack Entwickler (m/w/d) SaaS-Lösung](https://berlinstartupjobs.com/engineering/fullstack-entwickler-m-w-d-saas-losung-mendato-gmbh/)
-- [Product Engineer (m/f/d)](https://berlinstartupjobs.com/engineering/product-engineer-m-f-d-stackgini-gmbh/)
 
 ## www.eurotechjobs.com
 https://www.eurotechjobs.com/
@@ -1553,9 +1555,10 @@ https://www.eurotechjobs.com/
 - [Developer](https://www.eurotechjobs.com/jobs/developer)
 - [Web Developer](https://www.eurotechjobs.com/jobs/web_developer)
 - [02 December 2026 - The International AI Summit 26](https://www.eurotechjobs.com/conferences/2794/the_international_ai_summit_26)
+- [14 June 2027 - European Power Platform Conference 2027](https://www.eurotechjobs.com/conferences/2776/european_power_platform_conference_2027)
 - [Sweden (11)](https://www.eurotechjobs.com/jobs/sweden)
 - [C# Developer (15)](https://www.eurotechjobs.com/jobs/c_sharp_developer)
-- [Embedded Software Engineer (24)](https://www.eurotechjobs.com/jobs/embedded_software_engineer)
+- [Embedded Software Engineer (23)](https://www.eurotechjobs.com/jobs/embedded_software_engineer)
 - [Machine Learning (33)](https://www.eurotechjobs.com/jobs/machine_learning)
 - [Mobile Developer (4)](https://www.eurotechjobs.com/jobs/mobile_developer)
 - [PHP Developer (3)](https://www.eurotechjobs.com/jobs/php_developer)
@@ -1577,51 +1580,52 @@ https://openai.com/careers/search/
 - [Android Engineer, ChatGPT Library TeamApplied AI EngineeringSeattle](https://openai.com/careers/android-engineer-chatgpt-library-team-seattle/)
 - [Android Engineer, GrowthApplied AI EngineeringSan Francisco](https://openai.com/careers/android-engineer-growth-san-francisco/)
 - [Android Engineer, Plugin Developer PlatformApplied AI EngineeringSan Francisco](https://openai.com/careers/android-engineer-plugin-developer-platform-san-francisco/)
-- [Applied AI ArchitectTechnical SuccessSan Francisco](https://openai.com/careers/applied-ai-architect-san-francisco/)
+- [Applied AI ArchitectTechnical Success3 locations](https://openai.com/careers/applied-ai-architect-delhi-india/)
 - [Applied AI ArchitectTechnical SuccessSydney, Australia](https://openai.com/careers/applied-ai-architect-sydney-australia/)
 - [Applied AI ArchitectTechnical SuccessSingapore](https://openai.com/careers/applied-ai-architect-singapore/)
 - [Applied AI ArchitectTechnical SuccessSeoul, South Korea](https://openai.com/careers/applied-ai-architect-seoul-south-korea/)
-- [Applied AI ArchitectTechnical Success3 locations](https://openai.com/careers/applied-ai-architect-delhi-india/)
+- [Applied AI ArchitectTechnical SuccessSan Francisco](https://openai.com/careers/applied-ai-architect-san-francisco/)
 - [Applied AI ArchitectTechnical SuccessNew York City](https://openai.com/careers/applied-ai-architect-new-york-city/)
 - [Applied AI ArchitectTechnical SuccessUS - Remote](https://openai.com/careers/applied-ai-architect-us-remote/)
 - [Applied AI Architect (Brazil)Technical SuccessSão Paulo](https://openai.com/careers/applied-ai-architect-(brazil)-sao-paulo/)
 - [Applied AI Architect, CyberTechnical SuccessVancouver](https://openai.com/careers/applied-ai-architect-cyber-vancouver/)
 - [Applied AI Architect, CyberTechnical Success2 locations](https://openai.com/careers/applied-ai-architect-cyber-san-francisco/)
-- [Applied AI Architect, Digital NativesTechnical SuccessSan Francisco](https://openai.com/careers/applied-ai-architect-digital-natives-san-francisco/)
 - [Applied AI Architect, Digital NativesTechnical SuccessDublin, Ireland](https://openai.com/careers/applied-ai-architect-digital-natives-dublin-ireland/)
+- [Applied AI Architect, Digital NativesTechnical SuccessSan Francisco](https://openai.com/careers/applied-ai-architect-digital-natives-san-francisco/)
 - [Applied AI Architect, EducationTechnical SuccessLondon, UK](https://openai.com/careers/applied-ai-architect-education-london-uk/)
 - [Applied AI Architect, GovernmentOpenAI for GovWashington, DC](https://openai.com/careers/applied-ai-architect-government-washington-dc/)
 - [Applied AI Architect, Healthcare & Life SciencesTechnical SuccessSan Francisco](https://openai.com/careers/applied-ai-architect-healthcare-and-life-sciences-san-francisco/)
-- [Applied AI Architect, Large EnterpriseTechnical SuccessMunich, Germany](https://openai.com/careers/applied-ai-architect-large-enterprise-munich-germany/)
 - [Applied AI Architect, Large EnterpriseTechnical SuccessLondon, UK](https://openai.com/careers/applied-ai-architect-large-enterprise-london-uk/)
+- [Applied AI Architect, Large EnterpriseTechnical SuccessParis, France](https://openai.com/careers/applied-ai-architect-large-enterprise-paris-france/)
+- [Applied AI Architect, Large EnterpriseTechnical SuccessMunich, Germany](https://openai.com/careers/applied-ai-architect-large-enterprise-munich-germany/)
 - [Applied AI Architect, OpenAI for GovernmentOpenAI for Gov2 locations](https://openai.com/careers/applied-ai-architect-openai-for-government-munich-germany/)
 - [Applied AI Architect, PartnerTechnical SuccessTokyo, Japan](https://openai.com/careers/applied-ai-architect-partner-tokyo-japan/)
 - [Applied AI Architect - TokyoTechnical SuccessTokyo, Japan](https://openai.com/careers/applied-ai-architect-tokyo-tokyo-japan/)
-- [Applied AI Delivery LeadTechnical SuccessUS - Remote](https://openai.com/careers/applied-ai-delivery-lead-us-remote/)
 - [Applied AI Delivery LeadTechnical SuccessSan Francisco](https://openai.com/careers/applied-ai-delivery-lead-san-francisco/)
+- [Applied AI Delivery LeadTechnical SuccessUS - Remote](https://openai.com/careers/applied-ai-delivery-lead-us-remote/)
 - [Applied AI Delivery Lead - LondonTechnical SuccessLondon, UK](https://openai.com/careers/applied-ai-delivery-lead-london-london-uk/)
 - [Applied AI Delivery Lead - Mountain ViewTechnical SuccessSan Francisco](https://openai.com/careers/applied-ai-delivery-lead-mountain-view-san-francisco/)
 - [Applied AI Delivery Lead - NYCTechnical SuccessNew York City](https://openai.com/careers/applied-ai-delivery-lead-nyc-new-york-city/)
-- [Applied AI EngineerTechnical SuccessSydney, Australia](https://openai.com/careers/applied-ai-engineer-sydney-australia/)
-- [Applied AI EngineerTechnical SuccessSingapore](https://openai.com/careers/applied-ai-engineer-singapore/)
 - [Applied AI EngineerTechnical SuccessSeoul, South Korea](https://openai.com/careers/applied-ai-engineer-seoul-south-korea/)
+- [Applied AI EngineerTechnical SuccessSingapore](https://openai.com/careers/applied-ai-engineer-singapore/)
+- [Applied AI EngineerTechnical SuccessSydney, Australia](https://openai.com/careers/applied-ai-engineer-sydney-australia/)
 - [Applied AI Engineer, API Platform, Digital NativesTechnical Success2 locations](https://openai.com/careers/applied-ai-engineer-api-platform-digital-natives-san-francisco/)
 - [Applied AI Engineer, API Platform, Digital NativesTechnical SuccessNew York City](https://openai.com/careers/applied-ai-engineer-api-platform-digital-natives-new-york-city/)
-- [Applied AI Engineer, CodexTechnical SuccessSydney, Australia](https://openai.com/careers/applied-ai-engineer-codex-sydney-australia/)
-- [Applied AI Engineer, CodexTechnical SuccessSingapore](https://openai.com/careers/applied-ai-engineer-codex-singapore/)
-- [Applied AI Engineer, CodexTechnical SuccessParis, France](https://openai.com/careers/applied-ai-engineer-codex-paris-france/)
-- [Applied AI Engineer, CodexTechnical SuccessLondon, UK](https://openai.com/careers/applied-ai-engineer-codex-london-uk/)
-- [Applied AI Engineer, CodexTechnical SuccessMunich, Germany](https://openai.com/careers/applied-ai-engineer-codex-munich-germany/)
 - [Applied AI Engineer, CodexTechnical SuccessMadrid, Spain](https://openai.com/careers/applied-ai-engineer-codex-madrid-spain/)
+- [Applied AI Engineer, CodexTechnical SuccessSydney, Australia](https://openai.com/careers/applied-ai-engineer-codex-sydney-australia/)
+- [Applied AI Engineer, CodexTechnical SuccessParis, France](https://openai.com/careers/applied-ai-engineer-codex-paris-france/)
+- [Applied AI Engineer, CodexTechnical SuccessMunich, Germany](https://openai.com/careers/applied-ai-engineer-codex-munich-germany/)
+- [Applied AI Engineer, CodexTechnical SuccessLondon, UK](https://openai.com/careers/applied-ai-engineer-codex-london-uk/)
+- [Applied AI Engineer, CodexTechnical SuccessSingapore](https://openai.com/careers/applied-ai-engineer-codex-singapore/)
 - [Applied AI Engineer, Codex Core AgentCodex - Engineering3 locations](https://openai.com/careers/applied-ai-engineer-codex-core-agent-san-francisco/)
 - [Applied AI Engineer, Codex | TokyoTechnical SuccessTokyo, Japan](https://openai.com/careers/applied-ai-engineer-codex-or-tokyo-tokyo-japan/)
 - [Applied AI Engineer, CyberTechnical SuccessSingapore](https://openai.com/careers/applied-ai-engineer-cyber-singapore/)
 - [Applied AI Engineer, Cyber, GovernmentOpenAI for GovWashington, DC](https://openai.com/careers/applied-ai-engineer-cyber-government-washington-dc/)
 - [Applied AI Engineer, Cyber | TokyoTechnical SuccessTokyo, Japan](https://openai.com/careers/applied-ai-engineer-cyber-or-tokyo-tokyo-japan/)
 - [Applied AI Engineer, Digital NativesTechnical SuccessMunich, Germany](https://openai.com/careers/applied-ai-engineer-digital-natives-munich-germany/)
-- [Applied AI Engineer, Digital NativesTechnical SuccessSão Paulo](https://openai.com/careers/applied-ai-engineer-digital-natives-sao-paulo/)
 - [Applied AI Engineer, Digital NativesTechnical SuccessLondon, UK](https://openai.com/careers/applied-ai-engineer-digital-natives-london-uk/)
 - [Applied AI Engineer, Digital NativesTechnical SuccessParis, France](https://openai.com/careers/applied-ai-engineer-digital-natives-paris-france/)
+- [Applied AI Engineer, Digital NativesTechnical SuccessSão Paulo](https://openai.com/careers/applied-ai-engineer-digital-natives-sao-paulo/)
 - [Applied AI Engineer, EnterpriseTechnical Success3 locations](https://openai.com/careers/applied-ai-engineer-enterprise-san-francisco/)
 - [Applied AI Engineer, Enterprise - EDUTechnical Success3 locations](https://openai.com/careers/applied-ai-engineer-enterprise-edu-san-francisco/)
 - [Applied AI Engineer, Government OpenAI for GovWashington, DC](https://openai.com/careers/applied-ai-engineer-government-washington-dc/)
@@ -1651,7 +1655,6 @@ https://openai.com/careers/search/
 - [Compute Electrical Engineer, RoboticsRoboticsSan Francisco](https://openai.com/careers/compute-electrical-engineer-robotics-san-francisco/)
 - [Connectivity Software Engineer, Consumer DevicesSoftwareSan Francisco](https://openai.com/careers/connectivity-software-engineer-consumer-devices-san-francisco/)
 - [Controls Engineer, BMS & EPMSComputeSan Francisco](https://openai.com/careers/controls-engineer-bms-and-epms-san-francisco/)
-- [Control Systems Software Engineer, RoboticsRoboticsSan Francisco](https://openai.com/careers/control-systems-software-engineer-robotics-san-francisco/)
 
 
 ## Pages that failed
