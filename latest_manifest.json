@@ -6,9 +6,15 @@
     "job_links": 4
   },
   {
+    "url": "https://jobs.apple.com/en-us/search?search=software%20engineer",
+    "ok": true,
+    "chars": 30589,
+    "job_links": 0
+  },
+  {
     "url": "https://www.amazon.jobs/en/search?base_query=software+engineer&category[]=software-development",
     "ok": true,
-    "chars": 10145,
+    "chars": 10146,
     "job_links": 7
   },
   {
@@ -16,12 +22,6 @@
     "ok": true,
     "chars": 22220,
     "job_links": 0
-  },
-  {
-    "url": "https://jobs.apple.com/en-us/search?search=software%20engineer",
-    "ok": true,
-    "chars": 30626,
-    "job_links": 1
   },
   {
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=new%20grad",
@@ -32,14 +32,14 @@
   {
     "url": "https://careers.salesforce.com/en/jobs/?search=software+engineer",
     "ok": true,
-    "chars": 18552,
+    "chars": 18675,
     "job_links": 11
   },
   {
     "url": "https://careers.adobe.com/us/en/search-results?keywords=software%20engineer",
     "ok": true,
-    "chars": 22612,
-    "job_links": 9
+    "chars": 22559,
+    "job_links": 10
   },
   {
     "url": "https://jobs.cisco.com/jobs/SearchJobs/software%20engineer",
@@ -50,8 +50,14 @@
   {
     "url": "https://www.databricks.com/company/careers/open-positions",
     "ok": true,
-    "chars": 186381,
-    "job_links": 73
+    "chars": 186562,
+    "job_links": 74
+  },
+  {
+    "url": "https://careers.qualcomm.com/careers?query=software%20engineer",
+    "ok": true,
+    "chars": 206330,
+    "job_links": 2
   },
   {
     "url": "https://www.metacareers.com/jobs",
@@ -60,34 +66,28 @@
     "job_links": 0
   },
   {
-    "url": "https://careers.qualcomm.com/careers?query=software%20engineer",
-    "ok": true,
-    "chars": 206364,
-    "job_links": 2
-  },
-  {
-    "url": "https://stripe.com/jobs/search?query=software%20engineer",
-    "ok": true,
-    "chars": 9987,
-    "job_links": 17
-  },
-  {
     "url": "https://www.palantir.com/careers/",
     "ok": true,
     "chars": 27753,
     "job_links": 8
   },
   {
-    "url": "https://www.uber.com/us/en/careers/list/?query=software%20engineer",
-    "ok": true,
-    "chars": 2762,
-    "job_links": 0
-  },
-  {
     "url": "https://careers.snowflake.com/us/en/search-results?keywords=software%20engineer",
     "ok": true,
-    "chars": 15285,
+    "chars": 15229,
     "job_links": 5
+  },
+  {
+    "url": "https://stripe.com/jobs/search?query=software%20engineer",
+    "ok": true,
+    "chars": 9926,
+    "job_links": 18
+  },
+  {
+    "url": "https://www.uber.com/us/en/careers/list/?query=software%20engineer",
+    "ok": true,
+    "chars": 2773,
+    "job_links": 0
   },
   {
     "url": "https://jobs.netflix.com/search?q=software%20engineer",
@@ -98,7 +98,7 @@
   {
     "url": "https://careers.airbnb.com/positions/",
     "ok": true,
-    "chars": 9489,
+    "chars": 9334,
     "job_links": 1
   },
   {
@@ -108,16 +108,16 @@
     "job_links": 1
   },
   {
-    "url": "https://lifeattiktok.com/search?keyword=software%20engineer",
-    "ok": true,
-    "chars": 10499,
-    "job_links": 11
-  },
-  {
     "url": "https://jobs.bytedance.com/en/position?keywords=software%20engineer",
     "ok": true,
-    "chars": 11093,
+    "chars": 9552,
     "job_links": 6
+  },
+  {
+    "url": "https://lifeattiktok.com/search?keyword=software%20engineer",
+    "ok": true,
+    "chars": 8745,
+    "job_links": 11
   },
   {
     "url": "https://www.anthropic.com/jobs",
@@ -138,6 +138,12 @@
     "job_links": 2
   },
   {
+    "url": "https://cohere.com/careers",
+    "ok": true,
+    "chars": 26462,
+    "job_links": 8
+  },
+  {
     "url": "https://job-boards.greenhouse.io/xai",
     "ok": true,
     "chars": 6964,
@@ -150,12 +156,6 @@
     "job_links": 0
   },
   {
-    "url": "https://cohere.com/careers",
-    "ok": true,
-    "chars": 25677,
-    "job_links": 8
-  },
-  {
     "url": "https://jobs.ashbyhq.com/langchain",
     "ok": true,
     "chars": 18195,
@@ -164,7 +164,7 @@
   {
     "url": "https://jobs.ashbyhq.com/openai",
     "ok": true,
-    "chars": 168634,
+    "chars": 168834,
     "job_links": 335
   },
   {
@@ -172,12 +172,6 @@
     "ok": true,
     "chars": 3716,
     "job_links": 13
-  },
-  {
-    "url": "https://jobs.ashbyhq.com/harvey",
-    "ok": true,
-    "chars": 63030,
-    "job_links": 16
   },
   {
     "url": "https://jobs.ashbyhq.com/wispr-flow",
@@ -190,6 +184,12 @@
     "ok": true,
     "chars": 3059,
     "job_links": 0
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/harvey",
+    "ok": true,
+    "chars": 63030,
+    "job_links": 16
   },
   {
     "url": "https://jobs.ashbyhq.com/odysseyml",
@@ -218,62 +218,62 @@
   {
     "url": "https://www.ycombinator.com/jobs/role/software-engineer",
     "ok": true,
-    "chars": 32924,
+    "chars": 31490,
     "job_links": 26
   },
   {
     "url": "https://www.workatastartup.com/jobs",
     "ok": true,
-    "chars": 12089,
-    "job_links": 18
+    "chars": 12045,
+    "job_links": 19
   },
   {
     "url": "https://jobs.a16z.com/jobs",
     "ok": true,
-    "chars": 10651,
-    "job_links": 5
+    "chars": 10361,
+    "job_links": 13
   },
   {
     "url": "https://jobs.sequoiacap.com/jobs",
     "ok": true,
-    "chars": 41118,
-    "job_links": 6
+    "chars": 41107,
+    "job_links": 5
   },
   {
     "url": "https://jobs.khoslaventures.com/jobs",
     "ok": true,
-    "chars": 10921,
+    "chars": 11412,
     "job_links": 6
   },
   {
     "url": "https://jobs.signalfire.com/jobs",
     "ok": true,
-    "chars": 10241,
-    "job_links": 4
+    "chars": 10117,
+    "job_links": 8
   },
   {
     "url": "https://wellfound.com/role/software-engineer",
     "ok": true,
-    "chars": 30255,
-    "job_links": 51
-  },
-  {
-    "url": "https://builtin.com/jobs/dev-engineering",
-    "ok": true,
-    "chars": 82660,
-    "job_links": 45
+    "chars": 30873,
+    "job_links": 47
   },
   {
     "url": "https://startup.jobs/?q=software+engineer",
     "ok": true,
-    "chars": 35199,
-    "job_links": 39
+    "chars": 36107,
+    "job_links": 48
   },
   {
     "url": "https://simplify.jobs/jobs?query=new%20grad%20software%20engineer",
     "ok": true,
-    "chars": 5014,
+    "chars": 5080,
     "job_links": 0
+  },
+  {
+    "url": "https://builtin.com/jobs/dev-engineering",
+    "ok": true,
+    "chars": 82569,
+    "job_links": 45
   },
   {
     "url": "https://jobright.ai/jobs/search?value=software%20engineer%20new%20grad",
@@ -284,55 +284,55 @@
   {
     "url": "https://github.com/SimplifyJobs/New-Grad-Positions",
     "ok": true,
-    "chars": 487647,
+    "chars": 487297,
     "job_links": 35
-  },
-  {
-    "url": "https://github.com/vanshb03/New-Grad-2027",
-    "ok": true,
-    "chars": 406402,
-    "job_links": 5
   },
   {
     "url": "https://hiring.cafe/",
     "ok": true,
-    "chars": 37034,
-    "job_links": 1
+    "chars": 292,
+    "job_links": 0
+  },
+  {
+    "url": "https://github.com/vanshb03/New-Grad-2027",
+    "ok": true,
+    "chars": 406863,
+    "job_links": 5
   },
   {
     "url": "https://news.ycombinator.com/jobs",
     "ok": true,
-    "chars": 10480,
+    "chars": 10482,
     "job_links": 14
   },
   {
     "url": "https://www.ai-jobs.net/",
     "ok": true,
-    "chars": 45234,
-    "job_links": 28
+    "chars": 44553,
+    "job_links": 27
   },
   {
     "url": "https://www.naukri.com/software-engineer-jobs-in-bangalore",
     "ok": true,
-    "chars": 35947,
+    "chars": 35895,
     "job_links": 71
   },
   {
     "url": "https://www.naukri.com/software-engineer-jobs-in-hyderabad",
     "ok": true,
-    "chars": 35872,
+    "chars": 36083,
     "job_links": 71
   },
   {
     "url": "https://www.naukri.com/software-engineer-jobs-in-gurgaon",
     "ok": true,
-    "chars": 41036,
+    "chars": 35954,
     "job_links": 82
   },
   {
     "url": "https://www.naukri.com/software-engineer-jobs-in-noida",
     "ok": true,
-    "chars": 41614,
+    "chars": 36304,
     "job_links": 83
   },
   {
@@ -344,20 +344,20 @@
   {
     "url": "https://www.instahyre.com/search-jobs/",
     "ok": true,
-    "chars": 27232,
+    "chars": 26991,
     "job_links": 1
   },
   {
     "url": "https://hirist.tech/",
     "ok": true,
-    "chars": 31918,
+    "chars": 32310,
     "job_links": 21
   },
   {
-    "url": "https://wellfound.com/location/india",
+    "url": "https://www.foundit.in/srp/results?query=software+engineer",
     "ok": true,
-    "chars": 27402,
-    "job_links": 39
+    "chars": 8287,
+    "job_links": 2
   },
   {
     "url": "https://careers.razorpay.com/",
@@ -365,10 +365,10 @@
     "error": "Unexpected error in _crawl_web at line 799 in _crawl_web (../../../../../opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):"
   },
   {
-    "url": "https://in.indeed.com/jobs?q=software+engineer&l=Bengaluru",
+    "url": "https://wellfound.com/location/india",
     "ok": true,
-    "chars": 1516,
-    "job_links": 0
+    "chars": 27475,
+    "job_links": 37
   },
   {
     "url": "https://www.postman.com/company/careers/",
@@ -377,15 +377,15 @@
     "job_links": 1
   },
   {
-    "url": "https://www.foundit.in/srp/results?query=software+engineer",
-    "ok": true,
-    "chars": 18676,
-    "job_links": 5
-  },
-  {
     "url": "https://careers.swiggy.com/",
     "ok": true,
     "chars": 3202,
+    "job_links": 0
+  },
+  {
+    "url": "https://www.flipkartcareers.com/",
+    "ok": true,
+    "chars": 2636,
     "job_links": 0
   },
   {
@@ -400,15 +400,15 @@
     "error": "Unexpected error in _crawl_web at line 799 in _crawl_web (../../../../../opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):"
   },
   {
-    "url": "https://www.flipkartcareers.com/",
-    "ok": true,
-    "chars": 2636,
-    "job_links": 0
-  },
-  {
     "url": "https://www.zepto.com/careers",
     "ok": true,
     "chars": 547,
+    "job_links": 0
+  },
+  {
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=Bengaluru",
+    "ok": true,
+    "chars": 1516,
     "job_links": 0
   },
   {
@@ -425,7 +425,7 @@
   {
     "url": "https://www.freshworks.com/company/careers/",
     "ok": true,
-    "chars": 9890,
+    "chars": 11419,
     "job_links": 2
   },
   {
@@ -449,19 +449,19 @@
   {
     "url": "https://www.eurotechjobs.com/",
     "ok": true,
-    "chars": 42926,
-    "job_links": 11
+    "chars": 40028,
+    "job_links": 10
   },
   {
     "url": "https://landing.jobs/jobs?q=software+engineer",
     "ok": true,
-    "chars": 30301,
+    "chars": 30658,
     "job_links": 4
   },
   {
     "url": "https://openai.com/careers/search/",
     "ok": true,
-    "chars": 220187,
+    "chars": 220420,
     "job_links": 364
   }
 ]
